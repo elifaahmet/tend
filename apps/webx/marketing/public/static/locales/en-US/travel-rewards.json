@@ -1,0 +1,31 @@
+{
+  "title": "Tend",
+  "description": "Save on travel purchases and earn up to 15% cashback on everything from rental cars to plane tickets.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/travel-rewards/guy-under-water-with-bottles.jpeg",
+    "headline": "Treat yourself to more rewarding trips.",
+    "sub-copy": "Get best prices on travel and earn up to 15% cashback on everything from hotels to scuba diving lessons.^^",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money/join-now"
+    }
+  },
+  "sweet-travel-deals": {
+    "moduleType": "Bold Message",
+    "headline": "Do more than see the sites.",
+    "body": "All Tend members get access to our travel platform, where you can find the best prices on travel and experiences around the globe."
+  },
+  "cash-back": {
+    "moduleType": "Two Column - Image + HeadlineBody",
+    "headline": "Get up to 15% cashback on travel.",
+    "body": "Use your Tend card to book a flight, hotel, motel or travel experiences through the Tend travel platform.  Get up to 15% back.",
+    "image": "/photography/enUS/travel-rewards/woman-with-coffee-taking-photos.jpeg"
+  },
+  "save-equation": {
+    "request-pto": "Request PTO.",
+    "book-a-trip": "Book a trip and pay with your Tend card.",
+    "see-the-sights": "See the sights.",
+    "get-paid": "GET PAID DIRECTLY INTO YOUR SAVINGS ACCOUNT."
+  }
+}

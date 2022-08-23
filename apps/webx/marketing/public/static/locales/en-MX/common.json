@@ -1,0 +1,26 @@
+{
+  "title": "Tend - Coming Soon!",
+  "hero": {
+    "title": "Be smart. Join the waiting list.",
+    "body": "We believe that everyday banking, finding great deals, and maximizing your money doesn’t have to be so complicated. And that everyone deserves a fair shot at striking it rich. We’ll send you an invitation to join Tend when we launch.",
+    "img": "/landing/tend_app_es-MX.png"
+  },
+  "form": {
+    "placeholder": "Email",
+    "buttonText": "JOIN THE WAITLIST",
+    "reset": "ADD ANOTHER EAMIL",
+    "success": "Thanks for subscribing!",
+    "loading": "PLEASE WAIT..."
+  },
+  "countdown": {
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds"
+  },
+  "sweepstakesRules": "Sweepstakes Rules",
+  "error": {
+    "label": "error",
+    "unspecific": "Something went wrong, please try again later."
+  }
+}

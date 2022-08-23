@@ -1,0 +1,45 @@
+{
+  "implicitDependencies": {
+    "workspace.json": "*",
+    "package.json": { "dependencies": "*", "devDependencies": "*" },
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    ".eslintrc.json": "*",
+    "nx.json": "*"
+  },
+  "affected": { "defaultBase": "develop" },
+  "npmScope": "tendmoney",
+  "tasksRunnerOptions": {
+    "default": {
+      "runner": "@nrwl/workspace/tasks-runners/default",
+      "options": {
+        "cacheableOperations": [
+          "build",
+          "lint",
+          "test",
+          "e2e",
+          "build-storybook"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "storybook": { "tags": [] },
+    "ui": { "tags": [] },
+    "shared-design-tokens": { "tags": [] },
+    "webx-marketing": { "tags": [] },
+    "webx-the-green": { "tags": [] },
+    "shared-design-ui-kit": { "tags": [] },
+    "lego-product-ui-kit": { "tags": [] },
+    "lego-marketing-ui-kit": { "tags": [] },
+    "shared-resources-docs": { "tags": [] },
+    "webx-utils-next-i18next": { "tags": [] },
+    "frontend-p2p": { "tags": [] },
+    "markdown-processor": { "tags": [] },
+    "frontend-shared-environments": { "tags": [] },
+    "webx-mf-footer": { "tags": [] },
+    "frontend-shared-utils": { "tags": [] },
+    "frontend-shared-react-utils": { "tags": [] },
+    "shared-testing-lego-visual-regression": { "tags": [] }
+  }
+}

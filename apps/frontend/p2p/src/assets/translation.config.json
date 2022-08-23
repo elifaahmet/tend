@@ -1,0 +1,27 @@
+{
+  "en-US": {
+    "send-money-to": {
+      "title": "This is the main title"
+    },
+    "initiate-transfer": {
+      "title": "Another title",
+      "explainerText": "Exchange rates fluctuate based on market rates, and will be re-priced for each transaction based on the market rates at that time. The rate presented is valid for immediate execution only. Any delays in confirming the transaction, including application time-out, may cause changes to the available exchange rate",
+      "modalExplainerText": "Stay informed of potential fraud to help prevent yourself from becoming a victim. A scammer may contact you pretending to be someone you know.\n\nNever send money to the IRS, law enforcement, telemarketing companies, or to collect prize money using our services. Never share your passwords with anyone.\n\nIf you are uncertain about the person or entity you are sending money to, do not send money and contact us for more information. For more information about Fraud and Scams: consumer.ftc.gov/articles/how-avoid-scam",
+      "acceptFraudDisclaimer": "By continuing with this transaction you agree to our E-Sign Agreement, Terms and Conditions, and Privacy Policy",
+      "acceptTCSummary": "Before you can send money to someone in Mexico, you must agree to our partner Dwolla’s Terms of Service and Privacy Policy.",
+      "acceptTCCheckbox": "By checking this box you agree to our Terms and Conditions, our Privacy Policy, and our partner Dwolla's Terms of Service and Privacy Policy.",
+      "acceptTCSummaryButton": "I Agree"
+    },
+    "errors": {
+      "8103": "Invalid Validation",
+      "4000": "Login Expired",
+      "11111": "User Not Found"
+    }
+  },
+  "es-MX": {
+    "errors": {
+      "8103": "Invalid Validation",
+      "4000": "Login Expired"
+    }
+  }
+}

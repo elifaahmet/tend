@@ -1,0 +1,50 @@
+{
+  "title": "Tend",
+  "description": "MAKE PAYMENTS FROM (JUST ABOUT) ANYWHERE.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/mobile-payments/person-under-covers.jpeg",
+    "headline": "Make payments right from your phone.",
+    "sub-copy": "Wherever your money’s headed, we’ll make sure it gets there safe, sound and right on time.",
+    "cta": {
+      "label": "Join us",
+      "url": "https://tend.money"
+    }
+  },
+  "the-friend": {
+    "moduleType": "Bold Message",
+    "headline": "TO THE PAYER, GO THE REWARDS.",
+    "body": "Transfer money between other Tend members instantly—for free. Perfect for splitting the bill, sending the rent or settling the score."
+  },
+  "transfers": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/photography/enUS/mobile-payments/girls-back-playing-pin-ball.jpeg",
+    "value-props": [
+      {
+        "label": "Ace the traditional transfers.",
+        "body": "Old-fashioned money transfers, meet Tend. You won't have to step foot in a bank to wire money or pay a bill again. And <b>(Coming soon)</b> you can deposit a paper check right from your Tend app.",
+        "comingSoonInner": true
+      },
+      {
+        "label": "Send all over the map.",
+        "body": "The Tend app will hook you up with the fastest (and cheapest) ways to send money across the globe. But for now you can try Transferwise or Remitly",
+        "comingSoonInner": true
+      },
+      {
+        "label": "More ways than one.",
+        "body": "All Tend members will have access to Venmo and PayPal, as well as virtual cards with Google and Apple Pay.",
+        "comingSoon": "(Coming soon)"
+      }
+    ]
+  },
+  "shares": {
+    "moduleType": "T-4 Stacked",
+    "headline": "Let’s get the whole squad on the same page.",
+    "body": "Paying friends, hair stylists and babysitters is easier when everyone has Tend. You’ll earn a cash bonus and a Tend Share for every member you refer, and that share will earn you cash every month. So, go ahead, split the bill eight ways.",
+    "image": "/photography/enUS/mobile-payments/girls-laughing.jpeg",
+    "cta": {
+      "label": "Refer a friend",
+      "url": "/"
+    }
+  }
+}

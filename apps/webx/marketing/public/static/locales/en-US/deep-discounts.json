@@ -1,0 +1,20 @@
+{
+  "title": "Tend",
+  "description": "We’ll help you find deep discounts all over the internet so you can stretch your budget a little further.",
+  "hero": {
+    "moduleType": "T-2 Layout",
+    "image": "/photography/enUS/deep-discounts/guy-in-park.jpg",
+    "headline": "SPEND LESS. SAVE MORE.",
+    "subCopy": "We’ll help you find deep discounts everywhere, so you can stretch your budget a little further.",
+    "cta": {
+      "label": "Join us",
+      "urt": "https://tend.money"
+    }
+  },
+  "moduleTwo": {
+    "moduleType": "T-7  Two Column",
+    "image": "/illustrations/borrow.png",
+    "headline": "Score 50%, 60% and 70% off.",
+    "body": " Find the best deals on over 200,000 items, curated daily from top retailers like Macy’s, Walgreens and Best Buy. All the money-saving benefits of bargain hunting, way less time spent messaging strangers on the internet. "
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "join-now-cta": {
+    "label": "Join Now",
+    "href": "/#"
+  },
+  "cta": {
+    "about": "CONOCE MÁS",
+    "join-now": "ÚNETE YA",
+    "join-us": "ÚNETE YA",
+    "get-started": "Get started",
+    "take-a-look": "Echa un vistazo",
+    "try-it-free": "Pruébala gratis",
+    "learn-more": "Descubre más",
+    "refer-a-friend": "Recomienda a un amigo",
+    "get-in-touch": "Contáctanos",
+    "submit": "Enviar",
+    "visit-the-green": "Visita The Green",
+    "search-our-help": "Explora nuestro centro de ayuda",
+    "send-email": "MANDA UN MENSAJE"
+  },
+  "form": {
+    "first-name": "Nombre",
+    "last-name": "Apellido",
+    "name-short": "Nombre",
+    "company": "Empresa",
+    "phone-number": "Teléfono",
+    "email": "Email",
+    "message": "Mensaje",
+    "success": "Gracias por contactarnos, alguien se comunicará pronto.",
+    "error": {
+      "generic": "Algo salió mal. Vuelve a intentarlo más tarde.",
+      "field": "Por favor ingrese {{field}}"
+    },
+    "placeholder": "Email",
+    "buttonText": "UNIRSE A LA LISTA DE ESPERA",
+    "reset": "AÑADIR OTRO CORREO ELECTRÓNICO",
+    "success-subscribe": "¡Gracias por suscribirte!",
+    "loading": "POR FAVOR ESPERA"
+  },
+  "images": {
+    "tend-app": "/images/common/esMX/tend_app_iphone12.png",
+    "tend-debit-card": "/images/common/esMX/tend_debit_card_mastercard.png",
+    "google-play": "/images/common/esUS/spanish-google.png",
+    "app-store": "/images/common/esUS/spanish-apple.png"
+  },
+  "other": "Mas Productos",
+  "contact": {
+    "title": "Contacto",
+    "email": "hey@tend.mx",
+    "tel": "55 40004030",
+    "weekdays": "Lunes–Viernes: 7am–10pm EST",
+    "weekend": "Sábado–Domingo: 7am–3pm EST",
+    "working-hours": "Disponible 24/7/365"
+  },
+  "privacy": {
+    "title": "Políticas de Privacidad",
+    "url": "/privacy"
+  },
+  "terms": {
+    "title": "Condiciones",
+    "url": "/terms"
+  },
+  "accessibility": {
+    "title": "Accesibilidad",
+    "url": "/accessibility"
+  },
+  "app-urls": {
+    "google-play": "https://play.google.com/store/apps/details?id=money.tend.app&hl=es&gl=MX",
+    "app-store": "https://apps.apple.com/mx/app/tend-money/id1559616421"
+  },
+  "title": "Tend - ¡Próximamente, en breve, pronto!",
+  "hero": {
+    "title": "Sé listo. Únete a la lista de espera.",
+    "body": "Creemos que hacer banca día a día, encontrar ofertas jugosas, y sacar el máximo partido a tu dinero, no debería de ser tan complicado. Por eso, en nuestro lanzamiento, te mandaremos una invitación para unirte a Tend. Para que ahorres, gastes, o vivas como quieras—tu dinero, tu decisión.",
+    "img": "/landing/tend_app_es-MX.png"
+  },
+  "countdown": {
+    "days": "días",
+    "hours": "horas",
+    "minutes": "minutos",
+    "seconds": "segundos"
+  },
+  "sweepstakesRules": "Reglas del sorteo",
+  "error": {
+    "label": "error",
+    "unspecific": "Se produjo un error. Vuelve a intentarlo más tarde."
+  },
+  "navigation": [
+    {
+      "title": "Banca",
+      "slug": "bank",
+      "meta": {
+        "background": "#FFC73D",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Banca móvil",
+          "slug": "mobile"
+        },
+        {
+          "title": "Nómina",
+          "slug": "get-paid-sooner"
+        },
+        {
+          "title": "Línea de crédito",
+          "slug": "line-of-credit"
+        },
+        {
+          "title": "Pagos móviles",
+          "slug": "mobile-payments"
+        },
+        {
+          "title": "Tarjeta de débito",
+          "slug": "debit-card"
+        },
+        {
+          "title": "Transferencias internacionales",
+          "slug": "international-transfers"
+        }
+      ]
+    },
+    {
+      "title": "Ganancias",
+      "slug": "/earn",
+      "meta": {
+        "background": "#F79234",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Tend Shares",
+          "slug": "shares"
+        },
+        {
+          "title": "Viajes",
+          "slug": "travel"
+        },
+        {
+          "title": "Recompensas por compras",
+          "slug": "shopping-cashback"
+        }
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "slug": "cover"
+    },
+    {
+      "title": "Tend para empresas",
+      "slug": "tend-at-work"
+    },
+    {
+      "title": "The Green",
+      "slug": "the-green"
+    },
+    {
+      "title": "Nosotros",
+      "slug": "about"
+    },
+    {
+      "title": "Ayuda",
+      "slug": "support",
+      "meta": {
+        "background": "#173D38",
+        "color": "#ffffff"
+      },
+      "children": [
+        {
+          "title": "Contáctanos",
+          "slug": "get-in-touch"
+        }
+      ]
+    }
+  ],
+  "ready_to_join": {
+    "headline": "¿Listo para unirte?",
+    "body": "Manejar tu dinero no debería venir con cargos inesperados, pésimo servicio o dolores de cabeza. Hagamos feng shui con tu experiencia bancaria por sólo $99 al mes."
+  },
+  "sticky_footer": {
+    "disclaimer": "Tend es una empresa enfocada al desarrollo de tecnología, no regulada por las autoridades del sector financiero mexicano. Los productos o servicios financieros son operados por Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero, una Institución de Banca Múltiple autorizada por la CNBV para constituirse y operar como Institución Financiera de Banca Múltiple, enfocada a ofrecer servicios bancarios y financieros. "
+  }
+}

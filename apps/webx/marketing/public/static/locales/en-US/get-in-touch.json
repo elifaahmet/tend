@@ -1,0 +1,20 @@
+{
+  "title": "Tend",
+  "description": "Real humans, standing by",
+  "hero": {
+    "headline": "We’re here to help.",
+    "sub-copy": "If you’re experiencing issues with your account or our mobile app, please get in touch and we’ll do our best to help. Call the number below or send us a message and we’ll get back to you shortly.",
+    "cta": {
+      "label": "Search our help center",
+      "url": "/faq"
+    }
+  },
+  "contact-form": {
+    "headline": "Send us a message"
+  },
+  "phone": {
+    "headline": "Call us 24/7/365",
+    "body": "1-833-TEND-HEY",
+    "info-text": "If you're experiencing issues with the app or have questions about your account, please get in touch and we'll do our best to help. Call us at any hour of the day and we can help you immediately or you can send us a message and we'll get back to you shortly."
+  }
+}

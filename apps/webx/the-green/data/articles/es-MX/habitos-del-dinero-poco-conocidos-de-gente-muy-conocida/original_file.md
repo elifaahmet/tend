@@ -1,0 +1,106 @@
+[//]: # (>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SECTION START - PAGE METADATA WILL BE ALWAYS FIRST SO NEVER EVER MOVE THIS!!!!!!!)
+
+---
+# Page Metadata
+section_type: page_metadata
+page_title: Hábitos del dinero poco conocidos de gente muy conocida
+page_description: También los famosos han tenido momentos críticos al manejar sus finanzas personales, aquí algunas entretenidas lecciones
+author: Por Mike Albo
+slug: habitos-del-dinero-poco-conocidos-de-gente-muy-conocida
+locale: es-MX
+---
+[//]: # (<<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECTION END)
+
+
+[//]: # (>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SECTION START)
+
+---
+# Hero
+section_type: hero
+title: Hábitos del dinero poco conocidos de gente muy conocida
+description: También los famosos han tenido momentos críticos al manejar sus finanzas personales, aquí algunas entretenidas lecciones
+author: Por Mike Albo
+title_color: yellow
+categories:
+- FINANZASPERSONALES
+hero_image: habitos-del-dinero-poco-conocidos-de-gente-muy-conocida/hero.png
+---
+[//]: # (<<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECTION END)
+
+
+[//]: # (>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SECTION START)
+
+---
+# Body and Quote
+section_type: two_column_body
+quote_text: "Hay maneras más convenientes  - y menos riesgosas - de estar tranquilo, sabiendo que nuestro dinero está a salvo en digamos… una cuenta de ahorros."
+
+# Body content is after the 3-dash (—) as markdown content:
+---
+**Aretha Franklin veía su dinero, literalmente.**
+
+Si buscas fotos de Aretha Franklin cantando en concierto frecuentemente verás su bolso cerca de ella. Pero lo que a lo mejor no sabes es que ese bolso está lleno de dinero.
+
+Así es como operó la legendaria Reina del Soul a lo largo de su carrera: pagos de frente, los cuales siempre mantenía a su lado durante sus conciertos.
+
+En el 2016, en su perfil de The New Yorker, David Remnick describe el backstage de Franklin en un show de casino en Windsor, Ontario. “En el tocador frente a ella, a un lado de su espejo de maquillaje y cepillo, había varios montones de billetes de cien dólares. Ella cobra en el momento y si no, no canta. El dinero va a su bolso y el bolso se queda ya sea con su equipo de seguridad o permanece en el escenario al alcance de la vista sobre el piano.
+
+Incluso en la presentación del 2015 en los Kennedy Center Honors, donde con seguridad podrías asumir que los productores no serán ventajosos, ella tenía su bolso.
+
+El espectáculo de los Honors terminó con todas las estrellas destacadas rindiendo tributo a King cantando su clásico “I Feel the Earth Move”. Durante el ensayo James Taylor, Sara Bareilles, Janelle Monáe y otros, junto con Franklin estaban en línea sobre el escenario. La bolsa de Franklin estaba frente a ellos, ahí a medio escenario. “Cuando terminamos, James Taylor se agachó para recoger el bolso y entregárselo, como todo un caballero, y por instinto ella casi lo empuja.” Describió el productor ejecutivo y director Glenn Weiss al New York Times.
+
+Sería fácil -e incorrecto- descartar esto como el hábito extravagante de una diva, pero el mantener su dinero vigilado como un halcón tenía justificación. La incomparable artista trazó su camino en la música americana, cruzando del gospel al R&B, al pop y viceversa, un camino que muchos otros siguieron. Pero ella también fue testigo de cómo los artistas negros previos a ella luchaban para que se les pagara lo que merecían.
+“Fue la época en la que creció, ella vió a tantas personas como: Ray Charles y B. B. King ser estafadas,” dijo el presentador de televisión
+
+Tavis Smiley, quien es un amigo cercano de la cantante. “A menudo tiene la sensación de que la gente está buscando hacerle daño. Y ella no lo tolerará, no le vas a faltar el respeto.”
+
+Entonces, ¿cómo evitar que le vean la cara? Acepte únicamente un pago en efectivo, sin excusas.
+
+“La situación con la bolsa tiene una larga historia: ésta siempre está con ella.” Comentó Rickey Minor, director musical de la ceremonia de los Kennedy Center Honors. “Tiene su dinero y está lista para la acción, para ir a donde tenga que ir. ¿Cuántas veces es necesario que dejes tu bolso en el camerino y que se pierda, antes de que digas: Yo trabajé duro por este dinero, lo voy a poner aquí donde pueda verlo?”
+
+Y a Franklin, quien falleció en el 2018 a la edad de 76, le fue bastante bien. Amasó una fortuna de 80 millones de dólares. (¿y los beneficiarios de esta fortuna? Esa es otra historia.)
+
+LECCIÓN: Quizás no seas una diva de renombre mundial. O tampoco vas a terminar ganando 80 millones de dólares. Pero hay maneras más convenientes  - y menos riesgosas - de estar tranquilo, sabiendo que nuestro dinero está a salvo en digamos… una cuenta de ahorros.
+
+**¿Sientes arrepentimiento al despertar? F Scott Fitzgerald también después de festejar tanto con su dinero.**
+
+Probablemente conozcas a F. Scott Fitzgerald como el autor de grandes clásicos como “El gran Gatsby”, pero lo que a lo mejor no sabes es que a él le encantaba la fiesta.
+
+Era 1919, y el escritor en apuros F. Scott Fitzgerald estaba de humor para celebrar. Después de unos cuantos años y un sinfín de rechazos (120 para ser exactos), él sentía que al fin estaba logrando cosas.
+
+Le pagaron un total de $879 (lo equivalente a $14,000 el día de hoy) por una serie historias, incluyendo un debut en “Saturday Evening Post” (una revista difícil de aterrizar antes) **entonces, él hizo lo que todos hacemos cuando nos sentimos bien, gastó a lo grande  como si no hubiera un mañana.**
+
+Él invitó a sus amigos de Princeton a celebrar en el hotel Knickerbocker en  Nueva York. Llenando sus bolsillos con billetes de $25 (~$400 el día de hoy)  para demostrar que se había hecho rico,
+
+Dándole a sus invitados un sinfín de botellas de whisky ilegal. (lo cual al final del día estaba prohibido).
+
+La resaca del día siguiente probablemente fue brutal.
+
+Pero así se manejaba Fitzgerald — “sus fabulosas ganancias únicamente sirven para pagar sus deudas.” Explica Andre Le Vot en su biografía del escritor. De hecho, Fitzgerald estuvo endeudado toda su carrera.
+
+¿Cómo sabes esto? Puesto que Fitzgerald tenía notas meticulosas en un libro mayor donde él enlistó las historias, escribió  las regalías de sus libros y sus ingresos (después del 10% que pagaba por cuota de representación). Su primera novela, “A este lado del paraíso”, lo hizo famoso de la noche a la mañana y las cuotas de sus historias para revistas se elevaron de $400 a $4,000. Ese año el ganó $18,850, sin embargo seguía $1,200 en números rojos.
+
+Esto debido a que aunque su libro mayor haya sido muy meticuloso, él seguía gastando, intentando mantener a Zelda su esposa y a él mismo luciendo fabulosos. Durante un tiempo vivieron en el hotel Biltmore, donde Zelda se deslizaba por los barandales, y donde F. Scott se paraba de manos en la recepción (de donde se les pidió que se retiraran).
+
+LECCIÓN: Aunque anotes cada transacción que hagas, sólo se volverá un registro meticuloso de tus errores previos si no tomas un paso extra y creas un presupuesto.
+
+
+**Elaine Stritch, la Reina de Broadway también era la Reina de la $Ansiedad$**
+
+Aunque no reconozcas el nombre de inmediato, probablemente conozcas a Elaine Stritch por su papel en el elenco original de “Company” , el revolucionario musical de Steven Sondheim. (cantando la versión definitiva de Ladies who Lunch) o como la madre autoritaria de Jack Donaghy en “30 Rock”. Pero lo que a lo mejor no sabes es que a pesar de todo su éxito, Stritch tuvo ataques de ansiedad por dinero toda su vida.
+
+Probablemente tú también entiendas ese sentimiento abrumador de que todo el dinero por el cual has trabajado tan duro, todo lo que has ahorrado, te lo quitaran. Un movimiento en falso y estás en bancarrota.
+
+Elaine Stritch, la legendaria (y legendariamente testaruda) actriz creció cómoda durante la Depresión (su padre trabajaba para B.F. Goodrich el gigante del caucho). Aún así, a lo largo de su carrera, tuvo una relación rocosa y poco confiable con sus finanzas.
+
+
+En su biografía Still here: The Madcap, Nervy, Singular Life of Elaine Stritch, Alexandra Jacobs la describe como “una relación problemática con el dinero: por intervalos parsimoniosos y despilfarradores, ignorantes y astutos, generosos y retenidos. Las posesiones pueden ser recolectadas de manera obsesiva, resguardadas ferozmente y se puede renunciar a ellas de la noche a la mañana.
+
+“Elaine era avariciosa” mencionó Frank Moran [su sobrino]. "Era tan avariciosa que dolía”. Pero por otro lado “Elaine había sido imprudente con el dinero durante varios años, Dios mío” dijo Midge Moran [su sobrina].  “Era muy imprudente con el dinero, no lo creerían”. A veces era tan tacaña que buscaba conseguir almuerzos gratis, viajes en limusina, viajes con todo pagado, mientras que también fue extremadamente generosa hasta el final. En su testamento, legó a su buena amiga, la columnista de chismes Liz Smith, 10,000 dólares para que pudiera llevar a comer a Barbara Walters.
+
+**La vida de un actor podría ser la máxima definición de un contratista independiente.** A menos que consigas un puesto fijo en alguna producción (como su amiga Angela Lansbury en Reportera del Crimen) siempre te encontrarás en un estado de riesgo e intranquilidad. Stritch frecuentemente fue su mejor defensora, saltándose a sus agentes para ella negociar sus propios contratos y por otro lado también fue su peor enemiga, puesto que saboteó la oportunidad de aparecer en una nueva serie llamada “Las Chicas de Oro” (ella mencionó que actuar al lado de Betty White sería lo equivalente a tomar cianuro… luego se disculpó.)
+
+LECCIÓN: No importa cuánto dinero tengas, el primer paso para calmar la $ansiedad$ es dominar la mentalidad monetaria. Oh, y jamás, bajo ninguna circunstancia insultes a Betty White.
+
+
+[//]: # (<<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECTION END)

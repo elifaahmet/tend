@@ -1,0 +1,8 @@
+/** @format */
+
+export const STATUS = {
+  IDLE: 'IDLE',
+  SUBMITTED: 'SUBMITTED',
+  SUBMITTING: 'SUBMITTING',
+  COMPLETED: 'COMPLETED',
+};

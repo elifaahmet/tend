@@ -1,0 +1,38 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/debit-card/girl-laughing-ice-cream.jpg",
+    "headline": "Funciona como débito, recompensa como crédito.",
+    "sub-copy": "Conviértete en uno de esos suertudos que tienen una tarjeta de crédito sofisticada.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "go-somewhere": {
+    "moduleType": "T-7 Two Column - Image + Headline Body",
+    "image": "/photography/enUS/debit-card/taco-truck.jpg",
+    "headline": "VE POR UNOS TACOS Y RECIBE ALGO A CAMBIO.",
+    "body": "Así funciona el cashback aquí. Cuando usas tu tarjeta de débito Tend, conseguirás hasta un 5% de vuelta en miles de establecimientos, desde Papa John 's hasta Home Depot."
+  },
+  "splurge": {
+    "moduleType": "T-7 Two Column - Image + Headline Body",
+    "image": "/photography/enUS/debit-card/flamingo-floatie.jpg",
+    "headline": "DINERO EXTRA PARA TODOS TUS LUJOS.",
+    "body": "Obtén cashback cuando gastes en viajes en una variedad de establecimientos—no sólo en esa aerolínea. Ganarás hasta un 5% de vuelta cuando reserves vuelos, hoteles y transporte en la plataforma de viaje Tend, donde también encontrarás las mejores ofertas."
+  },
+  "equation": {
+    "moduleType": "Equation",
+    "shopping": "Compras",
+    "cash-back": "Cash back",
+    "get-paid": "Recibir el pago"
+  },
+  "card-free-payments": {
+    "moduleType": "Two Column - Image + Headline/Body ",
+    "headline": "UN TAP PARA PAGAR.",
+    "body": "Resulta que la tecnología de pago sin contacto no es sólo para tarjetas de crédito sofisticadas—también es para miembros Tend. Y pronto, tendrás acceso a Apple Pay y a Google Pay, así no tendrás que sacar tu tarjeta de la cartera.",
+    "image": "/images/common/esMX/tend_debit_card.png"
+  }
+}

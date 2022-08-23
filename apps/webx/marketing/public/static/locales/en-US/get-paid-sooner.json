@@ -1,0 +1,41 @@
+{
+  "title": "Tend",
+  "description": "Direct deposit puts your money in your wallet, faster.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/get-paid-sooner/flamingo-floatie.jpg",
+    "headline": "PAY DAY JUST GOT BETTER.",
+    "sub-copy": "Sign up for direct deposit and you’ll get A) your money faster and B) a Tend Share - which rewards you with monthly cash bonuses for as long as...well...how long have you got?",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "faster-access": {
+    "moduleType": "Bold Message",
+    "headline": "Faster access to your cash.",
+    "body": "When you turn on direct deposit, you’ll get your paycheck faster than with a check. All the better for paying the bills or splurging on date night with your #1. No more waiting in line at the bank, no more paper checks."
+  },
+  "value-props": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/illustrations/borrow.png",
+    "value-props": [
+      {
+        "label": "Paychecks with benefits.",
+        "body": "We’ll cover a month of your Tend membership fee when you turn on direct deposit. And you’ll earn a Tend Share - which earns you a cash bonus every month, forever.",
+        "cta": {
+          "label": "Learn more",
+          "url": "/shares"
+        }
+      },
+      {
+        "label": "Your paycheck, on autopilot.",
+        "body": "Set up direct deposit right from your Tend app in less time than it takes to find a movie on Netflix."
+      }
+    ],
+    "cta": {
+      "label": "Learn more",
+      "url": "/"
+    }
+  }
+}

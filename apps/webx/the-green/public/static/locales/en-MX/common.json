@@ -1,0 +1,268 @@
+{
+  "Tend - The Green": "Tend - The Green",
+  "Privacy": "Privacy",
+  "Copyright": "TEND MONEY",
+  "Accessibility": "Accessibility",
+  "Terms": "Terms",
+  "Contact":"Contact",
+  "Sign In": "Sign In",
+  "Username": "Username",
+  "Password": "Password",
+  "New here": "NEW HERE? DOWNLOAD THE TEND APP AND SIGN UP NOW.",
+  "Search": "Search",
+  "Create New Post": "Create New Post",
+  "Search results": "Search results for",
+  "No results": "No results found for",
+  "Product Roadmap": "Product Roadmap",
+  "Learn More": "Learn More",
+  "Read More": "Read More",
+  "Follow Discussion": "Follow Discussion",
+  "Latest Comments": "Latest Comments",
+  "Comment": "Comment",
+  "Comments": "Comments",
+  "Category": "Category",
+  "Categories": "Categories",
+  "Title": "Title",
+  "Message": "Message",
+  "Post": "Post",
+  "Views": "views",
+  "Replies": "replies",
+  "Latest Posts in": "Latest Posts in",
+  "Latest Post": "Latest Post",
+  "Members Content": "Members Content",
+  "Message Board": "Message Board",
+  "Visit Message Board": "Visit Message Board",
+  "Topics": "Topics",
+  "Tweets by tendmoney": "Tweets by tendmoney",
+  "We want your two cents": "We want your two cents",
+  "Make a suggestion": "Make a suggestion",
+  "New Suggestion": "New Suggestion",
+  "Try Again": "Try Again",
+  "Your email": "Your email",
+  "Your message": "Your message",
+  "Sign in or up": "Sign in or sign up",
+  "to": "to",
+  "Join the conversation": "JOIN the conversation.",
+  "start the conversation": "start the conversation.",
+  "There is": "There is",
+  "There are": "There are",
+  "Reply": "Reply",
+  "Replying to": "Replying to",
+  "Quiet here": "It's Quiet around here",
+  "Apology-error": "Apologies, an error occured. Please try again later",
+  "Enter creds": "Please enter your username and password",
+  "tend-poll": {
+    "title": "TEND POLL",
+    "sub-title": "How much do you love earning monthly rewards?"
+  },
+  "Join Tend": "JOIN TEND.",
+  "pay-wall-header": "NOT PART OF THE FAMILY YET?",
+  "Load all posts": "Load All Posts",
+  "Visit message board": "Visit Message Board",
+  "Coming Soon": "Coming Soon",
+  "nickname": {
+    "title": "Welcome to the green",
+    "content": "Set a nickname so you can start chatting.",
+    "footer": "Set Nickname",
+    "input-placeholder": "Choose a nickname"
+  },
+  "member-content": {
+    "title": "Member Content",
+    "body": "Access to all content, the ability to comment and interact with Tend is limited to Tend members."
+  },
+  "product-roadmap": {
+    "title": {
+      "first-line": "Product",
+      "second-line": "Roadmap"
+    },
+    "body": "The future of banking is made together. When we reach 25k users, we will release an interactive product roadmap where members can suggest features, and vote for what we’ll build next.",
+    "elements": [
+      {
+        "title": "Crypto",
+        "bottomLineColor": "defaultYellow",
+        "rightLineColor": "defaultMagenta"
+      },
+      {
+        "title": "Insurance",
+        "bottomLineColor": "defaultRed",
+        "rightLineColor": "defaultMagenta"
+      },
+      {
+        "title": "AI Smart Assistant",
+        "bottomLineColor": "defaultOrange",
+        "rightLineColor": "defaultTransparent"
+      },
+      {
+        "title": "Global Instant Transfers",
+        "bottomLineColor": "defaultRed",
+        "rightLineColor": "defaultMagenta"
+      },
+      {
+        "title": "Dynamic Budgeting",
+        "bottomLineColor": "defaultMagenta",
+        "rightLineColor": "defaultOrange"
+      },
+      {
+        "title": "Lending Solutions",
+        "bottomLineColor": "defaultOrange",
+        "rightLineColor": "defaultTransparent"
+      },
+      {
+        "title": "Exclusive Event Offers",
+        "bottomLineColor": "defaultRed",
+        "rightLineColor": "defaultYellow"
+      },
+      {
+        "title": "Robo Advisory",
+        "bottomLineColor":"defaultYellow",
+        "rightLineColor": "defaultRed"
+      },
+      {
+        "title": "Credit / Debt Management",
+        "bottomLineColor": "defaultMagenta",
+        "rightLineColor": "defaultTransparent"
+      }
+    ]
+  },
+  "search": {
+    "form":{
+      "error": "Please enter a word to search!"
+    }
+  },
+  "equation":{
+    "you": "You",
+    "them": "Them",
+    "everyone-wins": "Everyone Wins"
+  },
+  "message-board":{
+    "title": {
+      "first-line": "Message",
+      "second-line": "Board"
+    },
+    "body": "Have a question or a topic you’d like to discuss? Post it and share it with the community."
+  },
+  "Back To Tend": "Back To Tend",
+  "Other": "Other",
+  "Description": "Welcome to The Green",
+  "meta": {
+    "defaultTitle": "Tend Money - The Green",
+    "defaultDescription": "Tend Money - The Green"
+  },
+  "navigation": [
+    {
+      "title": "Banking",
+      "slug": "bank",
+      "meta": {
+        "background": "#FFC73D",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Mobile Banking",
+          "slug": "mobile"
+        },
+        {
+          "title": "Get Paid Sooner",
+          "slug": "get-paid-sooner"
+        },
+        {
+          "title": "Line of Credit",
+          "slug": "line-of-credit"
+        },
+        {
+          "title": "Mobile Payments",
+          "slug": "mobile-payments"
+        },
+        {
+          "title": "Debit Card",
+          "slug": "debit-card"
+        },
+        {
+          "title": "International Transfers",
+          "slug": "international-transfers"
+        }
+      ]
+    },
+    {
+      "title": "Earn",
+      "slug": "earn",
+      "meta": {
+        "background": "#F79234",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Shopping Cashback",
+          "slug": "shopping-cashback"
+        },
+        {
+          "title": "Travel",
+          "slug": "travel"
+        },
+        {
+          "title": "Deep Discounts",
+          "slug": "deep-discounts"
+        }
+      ]
+    },
+    {
+      "title": "Cover",
+      "slug": "cover"
+    },
+    {
+      "title": "Tend Shares",
+      "slug": "shares"
+    },
+    {
+      "title": "Tend at Work",
+      "slug": "tend-at-work"
+    },
+    {
+      "title": "The Green",
+      "slug": "the-green"
+    },
+    {
+      "title": "About",
+      "slug": "about"
+    },
+    {
+      "title": "Support",
+      "slug": "support",
+      "meta": {
+        "background": "#173D38",
+        "color": "#ffffff"
+      },
+      "children": [
+        {
+          "title": "Get in Touch",
+          "slug": "get-in-touch"
+        },
+        {
+          "title": "Questions & Answers",
+          "slug": "faq"
+        }
+      ]
+    }
+  ],
+  "manifesto": {
+    "title":"AN INTRODUCTION TO THE GREEN",
+    "description":"The financial industry, whose primary purpose is to serve as a middleman between borrowers and savers, has historically built relationships as a top-down advisor and capital provider.",
+    "author":"James H Dunavant",
+    "categories": "Grow your green",
+    "hero_image":"product-roadmap.png",
+    "slug":"manifesto",
+    "headline": "AN INTRODUCTION TO",
+    "subHeadline": "THE GREEN"
+  },
+  "spotify": {
+    "href": "https://embed.spotify.com/playlist/15hNgKIkSkmVlZe5GDRGfI"
+  },
+  "social-media-links": {
+    "instagram": "https://www.instagram.com/tendmoneymx",
+    "facebook": "https://www.facebook.com/tendmoney",
+    "twitter": "https://twitter.com/tendmoneymx"
+  },
+  "twitter-card": {
+    "href": "https://twitter.com/tendmoneymx?ref_src=twsrc%5Etfw"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Tend",
+  "description": "GET THE CREDIT YOU DESERVE.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/line-of-credit/girl-with-balloons.jpeg",
+    "headline": "Give yourself the credit you deserve.",
+    "coming-soon": "(Coming soon)",
+    "sub-copy": "If you’ve got money in your savings account, you’ll also get access to a secured line of credit, and all the credit building that comes with it.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "dog-just-ate": {
+    "moduleType": "T-7 List + Image",
+    "image": "/photography/enUS/line-of-credit/pug-in-a-blanket.jpeg",
+    "layered-image": "/images/common/enUS/balance.png",
+    "headline": "THE UNPLANNED-PAYMENT PAYMENT PLAN.",
+    "body": "Your Tend debit card comes with a secured line of credit worth 75% of the amount in your savings. Because no matter how much you budget, sometimes you just need access to a little more cash—and you shouldn’t have to tap into your savings to get it.",
+    "cta": {
+      "label": "Take a look",
+      "url": "/"
+    }
+  },
+  "build-credit": {
+    "moduleType": "Bold Message",
+    "headline": "Consider it a head start on your dreams.",
+    "body": "Start building your credit history, so you have more points in your favor when you’re ready to apply for a mortgage, get a car loan, or start that moonshot business idea.",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "track-credit-score": {
+    "moduleType": "List + Image",
+    "headline": "Keep track of your score",
+    "body": "Follow your credit progress in the Tend app—no inbox clutter included.",
+    "image": "/images/common/enUS/credit-score.png"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Tend",
+  "description": "A la hora de cobrar, cuanto antes, mejor",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/get-paid-sooner/flamingo-floatie.jpg",
+    "headline": "A la hora de cobrar, cuanto antes, mejor",
+    "sub-copy": "Cuando das de alta tu depósito directo, conseguirás tu salario más rápido y obtendrás un Tend Share. Tu bonus de dinero mensual que te recompensa durante tanto tiempo...bueno, pues ¿cuánto tiempo te queda?",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "faster-access": {
+    "moduleType": "Bold Message",
+    "headline": "Tu sueldo, pero más rápido.",
+    "body": "Cuando das de alta tu deposito directo, obtendrás tu sueldo antes que con un cheque. Disfruta sin importar qué tan cerca está tu quincena. Sin fila en el banco, sin papeleo."
+  },
+  "value-props": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/illustrations/borrow.png",
+    "value-props": [
+      {
+        "label": "Tu sueldo, en piloto automático",
+        "body": "Configura el depósito directo desde tu app Tend en menos tiempo de lo que cuesta encontrar una peli en Netflix.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/shares"
+        }
+      },
+      {
+        "label": "Viene con ventajas sorpresa",
+        "body": "Nos gusta dar un toque de magia y compartimos caprichos siempre que podemos. Por eso, cuando activas tu depósito directo, te regalamos una mensualidad y un Tend Share. Una acción que te recompensa con un dinero extra cada mes, para siempre."
+      }
+    ],
+    "cta": {
+      "label": "Learn more",
+      "url": "/"
+    }
+  }
+}

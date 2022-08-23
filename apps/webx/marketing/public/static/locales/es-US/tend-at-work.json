@@ -1,0 +1,136 @@
+{
+  "title": "Tend",
+  "description": "Los beneficios de tus empleados suben de nivel",
+  "hero": {
+    "moduleName": "T-1 Layered",
+    "label": "Tend para Empresas",
+    "headline": "Los beneficios de tus empleados suben de nivel",
+    "sub-copy": "Añade todas las ventajas de la membresía Tend a tu plan de incentivos y prepara a tus empleados para el éxito financiero. Así tendrán una razón más para ir a la fiesta de la oficina.",
+    "image": "/photography/enUS/tend-at-work/hero.jpg",
+    "cta": {
+      "label": "Contáctanos",
+      "button": "/tend-at-work#tend-at-work-form"
+    }
+  },
+  "access-is-everything": {
+    "moduleName": "T-7 Split Image + HeadlineBodyCTA",
+    "headline": "El acceso lo es todo.",
+    "body": "Empodera a tus empleados a construir sus futuros y el de sus familias. Cuando les das acceso a Tend, también les proporcionas una aplicación financiera de calidad, construida para generar riqueza entre sus miembros.",
+    "image": "/photography/enUS/tend-at-work/dad-kissing-his-daughter.png",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/mobile"
+    }
+  },
+  "go-further": {
+    "moduleName": "T-7 Split Image + HeadlineBodyCTA",
+    "headline": "Ayuda a que su dinero vaya más lejos.",
+    "body": "Con Tend, tus empleados sacan el máximo partido a su dinero con generosas ofertas de cash back en todo tipo de establecimientos (incluso en negocios locales). Además, tendrán acceso a nuestro ingreso colectivo compartido, los Tend Shares, que reparten pagos mensuales para ayudar a que progrese la comunidad. Tu personal también tiene derecho a ganar Tend Shares, así puedes ampliar tus ingresos mientras haces a tus empleados más ricos.",
+    "image": "/photography/enUS/tend-at-work/dekstop-and-coffee-and-plant.jpeg",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/shares"
+    }
+  },
+  "build-credit": {
+    "moduleName": "T-7 Split Image + HeadlineBodyCTA",
+    "headline": "Ayúdales a construir su historial de crédito.",
+    "body": "Cada membresía de Tend incluye una línea de crédito asegurada por un valor del 75% de su cuenta de ahorros. De esa manera, ellos pueden pedir prestado sin necesidad de tocar sus ahorros. Y cuando lo devuelvan, estarán creando historial de crédito para que puedan pedir préstamos mayores en el futuro. Mitad plan para cubrirse las espaldas, mitad plan para la casa de sus sueños. Lanzamiento a finales del 2021.",
+    "image": "/photography/enUS/tend-at-work/girl-in-jean-shirt-and-her-purse.jpeg",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/line-of-credit"
+    }
+  },
+  "pay-them-sooner": {
+    "moduleType": "Bold Message Two column",
+    "headline": "Págales antes",
+    "body": "Organiza un depósito directo para pagar a tus empleados de 2 a 4 días más rápido que con un cheque. Y sin cheques que cortar, puedes disfrutar de un pago de nómina sin complicaciones. Eso sí que es eficiencia mejorada.",
+    "image": "/images/common/enUS/tend-smile.png",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/get-paid-sooner"
+    }
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/bank.png",
+        "headline": "Banca móvil",
+        "body": "Una app segura, sencilla y gratis para dirigirlo todo.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/mobile"
+        },
+        "ruleColor": "defaultMagenta"
+      },
+      {
+        "image": "/illustrations/grow.png",
+        "headline": "Cajeros sin comisiones",
+        "body": "Dispón rápidamente de tu efectivo con 37,000 cajeros sin comisiones a lo largo del país.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/debit-card"
+        },
+        "ruleColor": "defaultOrange"
+      },
+      {
+        "image": "/illustrations/borrow.png",
+        "headline": "Transferencias internacionales",
+        "body": "Bajas comisiones en transferencias de dinero desde y hacia Estados Unidos con Transferwise y Remitly.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/international-transfers"
+        },
+        "ruleColor": "defaultRed"
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "headline": "Cositas aún mejores",
+        "body": "Transferencias bancarias, entre cuentas, pagos móviles, pagos de facturas automáticos, y mucho más.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/mobile-payments"
+        },
+        "ruleColor": "defaultYellow"
+      }
+    ]
+  },
+  "carousel-t": {
+    "moduleType": "Carousel T",
+    "tElements": [
+      {
+        "image": "/photography/enUS/tend-at-work/girl-chill-under-umbrella.jpeg",
+        "headline": "Viajar enriquece. Literalmente.",
+        "body": "Cuando tus empleados usan la plataforma de viajes Tend, disponen de ofertas vacacionales top, además de hasta un 15% de cash back en vuelos, hoteles y carros de alquiler.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/travel"
+        }
+      },
+      {
+        "image": "/photography/enUS/tend-at-work/family-hanging-a-picture-on-the-wall.jpeg",
+        "headline": "Recompensas, solo por usar tu tarjeta",
+        "body": "Creemos que no deberías gastar tanto en una tarjeta de crédito sofisticada para disfrutar de beneficios bancarios, como jugosas gangas de cash back. Por eso, los miembros de Tend ganan hasta un 15% de cash back en muchos establecimientos—incluyendo tiendas físicas, online, y comercios locales.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/shopping-cashback"
+        }
+      },
+      {
+        "image": "/photography/enUS/tend-at-work/boxes-packed.jpeg",
+        "headline": "Un extra de tranquilidad",
+        "body": "Cada miembro de Tend es automáticamente inscrito en un seguro de muerte accidental con $10,000 de cobertura.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/cover"
+        }
+      }
+    ]
+  },
+  "form": {
+    "headline": "Haz ricos a tus empleados",
+    "body": "Cubre el total de la membresía de cada empleado por $9.95 al mes, o parcialmente por $5.95."
+  }
+}

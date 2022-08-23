@@ -1,0 +1,32 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/get-paid-sooner/flamingo-floatie.jpg",
+    "headline": "EMOCIÓNATE DE NUEVO AL RECIBIR TUS PAGOS.",
+    "sub-copy": "Cuando das de alta tu depósito directo (nómina), recibirás tu dinero más rápido y obtendrás un Tend Share, el cual es dinero en efectivo cada mes durante, bueno, todo el tiempo que quieras.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "value-props": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/illustrations/borrow.png",
+    "value-props": [
+      {
+        "label": "VIENE CON BENEFICIOS SORPRESA.",
+        "body": "Nos gusta agregar la cereza al pastel y compartir cuando podemos. Cubriremos un mes de tu membresía Tend cuando actives el depósito directo. Obtendrás un Tend Share y este te dará dinero en efectivo cada mes por siempre."
+      },
+      {
+        "label": "¿LISTO PARA UNIRTE?",
+        "body": "Manejar tu dinero no debería venir con cargos inesperados, pésimo servicio o dolores de cabeza. Hagamos feng shui con tu experiencia bancaria por sólo $99 al mes."
+      }
+    ],
+    "cta": {
+      "label": "Learn more",
+      "url": "/"
+    }
+  }
+}

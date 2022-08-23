@@ -1,0 +1,47 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/mobile-payments/person-under-covers.jpeg",
+    "headline": "PAGA DIRECTO DESDE TU TELÉFONO.",
+    "sub-copy": "No importa a donde vaya tu dinero, nos aseguramos que llegue sano, salvo y justo a tiempo.",
+    "cta": {
+      "label": "Join us",
+      "url": "https://tend.money"
+    }
+  },
+  "the-friend": {
+    "moduleType": "Bold Message",
+    "headline": "TODO QUEDA ENTRE AMIGOS.",
+    "body": "Transfiere dinero entre miembros Tend gratis y al instante. Perfecto para dividir la cuenta o pagar tu renta. Eso significa dejar de compartir tus datos con una app más."
+  },
+  "transfers": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/photography/esMX/mobile-payments/group-looking-down.jpg",
+    "value-props": [
+      {
+        "label": "Tus transferencias, mejoradas.",
+        "body": "Dile adiós a las transferencias anticuadas con Tend. No vuelvas a pisar un banco para transferir dinero o pagar una factura. Y muy pronto, también podrás depositar cheques desde tu app Tend."
+      },
+      {
+        "label": "Envía dinero a cualquier parte del mundo.",
+        "body": "¿Tienes familia en el extranjero? ¿Planeas una boda fuera? Cuando necesites enviar dinero a otro país, te cubrimos con tasas bajas para transferencias internacionales usando Transferwise y Remitly. Próximamente podrás hacer transferencias instantáneas entre México y Estados Unidos."
+      },
+      {
+        "label": "Varias formas de pago.",
+        "body": "Pronto, todos los miembros Tend tendrán acceso a Venmo y PayPal, así como a tarjetas virtuales de Google y Apple Pay."
+      }
+    ]
+  },
+  "shares": {
+    "moduleType": "T-4 Stacked",
+    "headline": "TODOS TUS AMIGOS EN EL MISMO LUGAR.",
+    "body": "Pagarle a tus amigos, estilistas y a las niñeras es más fácil cuando todos tienen Tend. Ganarás efectivo y un Tend Share por cada miembro que refieras y eso te dará dinero cada mes. Así que, adelante, divide la cuenta en ocho.",
+    "image": "photography/esMX/mobile-payments/group-outside-sunset.jpg",
+    "cta": {
+      "label": "REFIERE A UN AMIGO",
+      "url": "/"
+    }
+  }
+}

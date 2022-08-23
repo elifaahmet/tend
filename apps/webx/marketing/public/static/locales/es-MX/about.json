@@ -1,0 +1,76 @@
+{
+  "title": "Tend - About Us",
+  "description": "A new kind of digital personal finance platform with modern money tools designed for modern money moves, and a community that helps you step up your money game.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "img": "/photography/enUS/about/green-people.png",
+    "headline": "HOLA, SOMOS TEND",
+    "sub-copy": "Una nueva plataforma de finanzas personales con herramientas modernas diseñada para manejar tu dinero y una comunidad para aprender y dar un paso adelante. "
+  },
+  "ourPurpose": {
+    "moduleType": "two rows",
+    "headline": "Nuestro Propósito:",
+    "body": "Existimos para crear bienestar financiero juntos."
+  },
+  "ourStory": {
+    "moduleType": "few rows",
+    "headline": "Nuestra Historia:",
+    "body": [
+      "Hace mucho tiempo, el gran Biggie Smalls dijo, “Más dinero, más problemas”.",
+      "Pero cuando volteamos y vemos a la gente ganando y ahorrando menos dinero que sus papás, más un incremento en comisiones de banco como nunca antes…y un acceso a crédito desigual…y una falta de educación financiera en las escuelas...es claro que no tener dinero trae muchos problemas también.",
+      "Todos trabajamos duro por nuestro dinero. Nadie debería preocuparse por hacer que su dinero funcione para ellos. ",
+      "Por eso creamos Tend - para empoderar a todos a tener una vida financieramente saludable y más feliz.",
+      "Porque no importa si estás luchando por encontrar estabilidad financiera, o sólo estás buscando una experiencia financiera diseñada para personas reales - creemos que mereces un aliado con quien puedas crecer y en el que puedas confiar.",
+      "Y que cuando más gente cuida su dinero, las cosas tienden a mejorar para todos.."
+    ],
+    "image": "/photography/enUS/about/girls-looking-at-phone.jpeg",
+    "ourValues": {
+      "headline": "Nuestros Valores:",
+      "list": [
+        {
+          "headline": "Promovemos Colaboración",
+          "body": "La colaboración es el corazón de nuestro negocio. Encontramos colaboradores en nuestros equipos, clientes y a través de comunidades locales y globales. Empoderamos a todos a crear junto con otros, porque creemos que un mejor futuro financiero se construye juntos."
+        },
+        {
+          "headline": "Somos Transparentes",
+          "body": "El dinero puede ser complicado. Más que hacerlo fácil, creemos que debe ser claro, entendible y predecible. Ser transparentes y directos no sólo nos ayuda a tomar decisiones más informadas, sino también refuerza nuestra confianza colectiva en todo lo relacionado al dinero."
+        },
+        {
+          "headline": "Somos Optimistas",
+          "body": "Como organización, como compañeros, como comunidad, nos animamos mutuamente y vemos el potencial para mejorar nuestras finanzas. Cada reto, cada desafío nos inspira a crear mejores herramientas bancarias para nuestros miembros."
+        }
+      ]
+    }
+  },
+  "who-we-are": {
+    "moduleType": "Slider with multiple rows",
+    "headline": "Nuestro Equipo:",
+    "people": [
+      {
+        "image": "/photography/enUS/about/james-dunavant.jpg",
+        "name": "James Dunavant",
+        "role": "CEO"
+      },
+      {
+        "image": "/photography/enUS/about/nathan-biles.jpeg",
+        "name": "Nathan Biles",
+        "role": "CTO"
+      },
+      {
+        "image": "/photography/enUS/about/loren-tama.jpg",
+        "name": "Loren Tama",
+        "role": "CFO"
+      },
+      {
+        "image": "/photography/enUS/about/sofia-ramirez.jpeg",
+        "name": "Sofia Ramirez",
+        "role": "Brand Advisor"
+      },
+      {
+        "image": "/photography/enUS/about/steve-landry.jpg",
+        "name": "Steve Landry",
+        "role": "COO"
+      }
+    ]
+  }
+}

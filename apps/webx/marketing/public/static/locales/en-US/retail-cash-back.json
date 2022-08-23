@@ -1,0 +1,55 @@
+{
+  "title": "Tend",
+  "description": "Turn everyday into payday.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "headline": "Turn everyday into payday.",
+    "sub-copy": "Earn up to 15% cashback at thousands of retailers, like CVS, Buffalo Wild Wings and Chevron.^^",
+    "image": "/photography/enUS/cash-back/guy-hands-up-in-shopping-cart.jpeg",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "cash-back-irl": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Get up to 15% cashback, in-store or online.",
+    "body": "We won’t box you into a single way of spending. You’ll get cashback when you shop online and in person. It’s your money, so spend it how you like.",
+    "image": "/photography/enUS/cash-back/busy-coffee-shop.jpeg"
+  },
+  "shop-local": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "All the more reason to shop local.",
+    "body": "Your Tend card gets you cashback at tons of local retailers—some even offer more than 15%. Supporting your community feels even better when you get cashback for it.",
+    "image": "/illustrations/earn.png"
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/bank.png",
+        "step": "Step 1",
+        "headline": "Find a deal",
+        "body": "You can always see the deals available near you in your Tend app."
+      },
+      {
+        "image": "/illustrations/grow.png",
+        "step": "Step 2",
+        "headline": "Activate your deal",
+        "body": "Let us know when you’re interested in a deal, and we’ll make sure you get it."
+      },
+      {
+        "image": "/illustrations/borrow.png",
+        "step": "Step 3",
+        "headline": "Go bananas",
+        "body": "Use your Tend card when you check out, and we’ll apply the deal automatically."
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "step": "Step 4",
+        "headline": "Get paid",
+        "body": "We’ll deposit your cashback into your account in 30 – 90 days."
+      }
+    ]
+  }
+}

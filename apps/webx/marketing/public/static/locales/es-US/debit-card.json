@@ -1,0 +1,44 @@
+{
+  "title": "Tend",
+  "description": "No te enojes con esos desgraciados suertudos que tienen una tarjeta de crédito sofisticada. Mejor conviértete en uno de ellos.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/debit-card/girl-laughing-ice-cream.jpg",
+    "headline": "FUNCIONA COMO DÉBITO, RECOMPENSA COMO TARJETA DE CRÉDITO.",
+    "sub-copy": "No te enojes con esos desgraciados suertudos que tienen una tarjeta de crédito sofisticada. Mejor conviértete en uno de ellos.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "go-somewhere": {
+    "moduleType": "T-7 Two Column - Image + Headline Body",
+    "image": "/photography/enUS/debit-card/taco-truck.jpg",
+    "headline": "Ve a comer un taco y que te paguen por ello.",
+    "body": "Así funciona el cash back aquí. Cuando usas tu tarjeta de débito Tend, conseguirás hasta un 15% de vuelta en miles de establecimientos, desde CVS hasta Buffalo Wild Wings."
+  },
+  "splurge": {
+    "moduleType": "T-7 Two Column - Image + Headline Body",
+    "image": "/photography/enUS/debit-card/flamingo-floatie.jpg",
+    "headline": "Dinero extra para todos tus caprichos.",
+    "body": "Recibe los mejores precios en viajes y gana hasta un 15% de cashback al reservar un vuelo, hotel, coche o cualquier experiencia de viaje a través de la plataforma de viajes Tend."
+  },
+  "equation": {
+    "moduleType": "Equation",
+    "shopping": "Compras",
+    "cash-back": "Cash back",
+    "get-paid": "Recibir el pago"
+  },
+  "dive-bar": {
+    "moduleType": "Bold Message - Headline + Body",
+    "headline": "No te preocupes por el cajero de la taquería.",
+    "body": "No te cobrarán comisiones cuando uses tu tarjeta de débito Tend en más de 37,000 cajeros en todo el mundo.^",
+    "disclaimer": "*La tarjeta de débito Tend puede usarse gratis en más de 37,000 cajeros automáticos de MoneyPass Network. Tend no cobra comisión por retiro en cajeros, pero algunos proveedores podrían cobrar comisiones por su cuenta, las cuales no son reeembolsadas."
+  },
+  "card-free-payments": {
+    "moduleType": "Two Column - Image + Headline/Body ",
+    "headline": "Pagos libres de comisiones (y gérmenes)",
+    "body": "Resulta que la tecnología de pago sin contacto no es sólo para tarjetas de crédito sofisticadas—también es para miembros Tend. Y pronto, tendrás acceso a Apple Pay y a Google Pay, así no tendrás que sacar tu tarjeta de la cartera.",
+    "image": "/images/common/esUS/tend_debit_card.png"
+  }
+}

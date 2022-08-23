@@ -1,0 +1,4 @@
+# Allow specific env files
+!.env
+!.env.development
+!.env.production

@@ -1,0 +1,6 @@
+{
+  "DEFAULT_LOCALE": "en-US",
+  "BASE_PATH": "/web-marketing-mx",
+  "LOCALES": ["en-US", "es-MX"],
+  "DESTINATION": "tend.money"
+}

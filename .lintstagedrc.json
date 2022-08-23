@@ -1,0 +1,6 @@
+{
+  "*(*.ts|*.tsx|*.js|*.jsx)": [
+    "yarn eslint",
+    "yarn prettier --write --require-pragma"
+  ]
+}

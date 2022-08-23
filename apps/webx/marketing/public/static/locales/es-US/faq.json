@@ -1,0 +1,48 @@
+{
+  "title": "Tend",
+  "description": "Questions & answers",
+  "hero": {
+    "moduleName": "T-1",
+    "eyebrow": "AYUDA",
+    "headline": "Preguntas\ny respuestas",
+    "sub-copy": "Si tienes problemas con nuestra aplicación, o tienes preguntas sobre cómo usar nuestros productos, encontrarás respuestas a las dudas más frecuentes abajo."
+  },
+  "search": {
+    "headline": "Tenemos respuestas a todas tus preguntas sobre Tend."
+  },
+  "questions": {
+    "headline": "Preguntas Más Frecuentes",
+    "questions": [
+      {
+        "name": "¿Porque hay un cargo de suscripción?",
+        "topic": "Some Topic",
+        "answer": "Todas las otras aplicaciones de finanzas personales te cobrarán un montón nada más para sorprenderte con cargos ocultos, o te presionaran a que compres una membresía. En Tend, somos honestos. Este cargo mensual te dará acceso a todos los servicios esenciales bancarios que necesites, incluyendo programas de recompensas que no están disponibles en otras aplicaciones. Por lo poco que estarás pagando al mes, vas a poder ganar y ahorrar mucho más. Valdrá la pena."
+      },
+      {
+        "name": "¿Cómo puedo depositar dinero en mi cuenta de Tend?",
+        "topic": "Some Topic",
+        "answer": "Los fondos pueden ser depositados a tu cuenta a través de tu depósito directo, mediante una transferencia externa y (muy pronto) - a través de depósito de cheques móviles con solo tomar una foto."
+      },
+      {
+        "name": "¿Cómo invito a mis amigos a unirse a Tend?",
+        "topic": "Some Topic",
+        "answer": "Invita a tus amigos a unirse a Tend directamente desde la aplicación cuando hagas clic en “invitar” desde el menu principal. Después, tu amigo puede descargar la aplicación de Tend desde la tienda App Store o Google Play. Recuérdale a tu amigo que cuando se registre en la app de Tend, va a tener que checar que tu correo electrónico aparezca debajo de “invitador” - ¡así es como recibirás Tend Shares!"
+      },
+      {
+        "name": "¿Cómo puedo recibir cashback?",
+        "topic": "Some Topic",
+        "answer": "Uno de los muchos beneficios de ser un miembro de Tend es poder recibir cashback en tus compras diarias nada más con usar tu tarjeta de débito en comercios participantes. Ya sea ir a cenar o ir de compras, encontrarás oportunidades para recibir cashback a diario.\n\nHay tres formas de obtener dinero a través de cashback, todo con usar tu tarjeta de débito Tend:\n<2>·Inicia sesión en la app de Tend y en la sección de cashback, haz clic en tu tienda en línea seleccionada para hacer una compra\n</2><2>·Usa tu tarjeta de Tend en las tiendas y comercios participantes\n</2><2>·Puedes seleccionar ofertas de comercios participantes en la app de tend antes de visitar tu tienda preferida para aprovechar de las ofertas más recientes.\n</2>Recibirás tu reembolso o cashback directamente en tu cuenta de ahorros durante 120 días de tu compra."
+      },
+      {
+        "name": "¿Cómo puedo enviar dinero a otra persona?",
+        "topic": "Some Topic",
+        "answer": "Para transferir dinero a otro miembro de Tend en los Estados Unidos a través de la app Tend, ve al menu de “Transferir Dinero” y selecciona “Enviar Dinero”."
+      },
+      {
+        "name": "¿Cómo gano dinero con Tend Shares?",
+        "topic": "Some Topic",
+        "answer": "Es simple. En cuanto alguien abra una cuenta de Tend a través de tu invitación (que llamamos “Share”), serás elegible para recibir pagos de Tend Shares mensualmente, todo con que mantengan su cuenta activa. En cuanto más “Shares” tengas, más grande será tu porción de Tend Shares cada mes.\n\nLos pagos de Tend Shares se hacen automáticamente. Adicionalmente, después de que tu membresía esté activa por tres meses, recibirás un mes gratis y un crédito para un bono adicional por cada uno de tus invitados que se una a Tend. Ka-ching.\n\nCuando hayas alcanzado 12 créditos, recibirás $500 pesos en tu cuenta de ahorros. Si llegas a 24, ¡te daremos otros $100 pesos! 36 y recibirás $150 pesos, etcétera."
+      }
+    ]
+  }
+}

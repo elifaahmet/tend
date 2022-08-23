@@ -1,0 +1,5 @@
+{
+  "DEFAULT_LOCALE": "en-US",
+  "BASE_PATH": "/web-the-green-mx",
+  "LOCALES": ["en-US", "en-MX", "es-MX"]
+}

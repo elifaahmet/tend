@@ -1,0 +1,55 @@
+{
+  "title": "Tend",
+  "description": "Convierte cada día en día de pago.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "headline": "Convierte cada día en día de pago.",
+    "sub-copy": "Gana hasta un 15% de cash back en miles de establecimientos, como CVS, Buffalo Wild Wings, y Chevron.^^",
+    "image": "/photography/enUS/cash-back/guy-hands-up-in-shopping-cart.jpeg",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "cash-back-irl": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Hasta 15% de cash back y 100% de libertad.",
+    "body": "No te encasillamos en una única forma de pago. Obtendrás cash back cuando compres online o en persona. Es tu dinero, así que gástalo como quieras.",
+    "image": "/photography/enUS/cash-back/busy-coffee-shop.jpeg"
+  },
+  "shop-local": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Más razones aún para comprar local.",
+    "body": "Tu tarjeta Tend obtiene cash back en montones de pequeños comercios—algunos ofrecen incluso más del 15%. Apoyar a tu comunidad se siente mejor cuando te premian por ello.",
+    "image": "/illustrations/earn.png"
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/bank.png",
+        "step": "Paso 1",
+        "headline": "Encuentra una oferta",
+        "body": "Siempre puedes ver las ofertas disponibles cerca de ti en la app de Tend."
+      },
+      {
+        "image": "/illustrations/grow.png",
+        "step": "Paso 2",
+        "headline": "Activa tu oferta",
+        "body": "Avísanos cuando estés interesado en una oferta, y nos aseguraremos de que la consigas."
+      },
+      {
+        "image": "/illustrations/borrow.png",
+        "step": "Paso 3",
+        "headline": "Gasta a lo loco",
+        "body": "Usa tu tarjeta Tend en la compra y te aplicaremos la oferta automáticamente."
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "step": "Paso 4",
+        "headline": "Cobra tu dinero",
+        "body": "Depositaremos tu efectivo de vuelta en tu cuenta en 30-90 días."
+      }
+    ]
+  }
+}

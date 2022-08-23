@@ -1,0 +1,20 @@
+{
+  "title": "Tend",
+  "description": "Gana dinero el resto de tu vida. Y el día después.",
+  "hero": {
+    "moduleName": "T-2 Expanded",
+    "headline": "Gana dinero el resto de tu vida. Y el día después.",
+    "sub-copy": "Sí, tu membresía Tend también viene con seguro por muerte accidental.",
+    "image": "/photography/enUS/cover/guy-skate-ollie.jpeg",
+    "cta": {
+      "label": "Join us",
+      "url": "/join-us"
+    }
+  },
+  "be-prepared": {
+    "moduleName": "T-7 Image + Headline Body",
+    "headline": "¿Quién dice que no puedes estar preparado para lo peor?",
+    "body": "Cada miembro de Tend es inscrito automáticamente en un seguro de muerte y desmembramiento accidental con una cobertura de $10,000. No te costará ni un centavo, ni una cita con el doctor. Considéralo como un extra de tranquilidad para ti y los tuyos.",
+    "image": "/illustrations/cover.png"
+  }
+}

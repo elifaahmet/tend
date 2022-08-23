@@ -1,0 +1,58 @@
+{
+    "title": "Tend",
+    "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+    "hero": {
+      "moduleType": "T-1 Layered",
+      "image": "/photography/esMX/invitacion/desktop-hero.png",
+      "headline": "Te invitamos a construir una mejor vida financiera juntos.",
+      "headline-2": "¡TEND ESTÁ AQUÍ!",
+      "sub-copy": "Con Tend, podrás disfrutar de un servicio bancario completo, transparente y sin complicaciones. Además disfrutarás de todas las recompensas y beneficios con una membresía desde la palma de tu mano.",
+      "sub-copy-2": "Regístrate y obtén acceso inmediato a la primera banca colectiva del mundo.",
+      "cta": {
+        "label": "Join now",
+        "url": "https://tend.money"
+      }
+    },
+    "image": "/photography/esMX/invitacion/phone.png",
+    "logo-image": "/photography/esMX/invitacion/tend.png",
+    "invex-image": "/photography/esMX/invitacion/Banco_Vertical.png",
+    "value-props": {
+        "title": "ALGUNOS BENEFICIOS",
+        "desc": "Por haber sido cliente de la Tarjeta de Débito DiDi-INVEX podrás disfrutar de una membresía GRATIS por seis meses al ingresar el código <b>TEND6M</b> en la sección de “Comencemos” después de haber ingresado el código de seguridad.",
+        "disclaimer": "<b>Unidos para mejorar el bienestar financiero de los mexicanos.</b>",
+        "click-here": "<b>*</b>Consulta las tiendas participantes <a href=\"https://tend.mx/shopping-cashback\">aquí.</a>",
+        "value-props": [
+          {
+            "body": "5% de cashback en tiendas participantes* y al comprar en línea. Y hasta un 15% de cashback al viajar en México y por el mundo."
+          },
+          {
+            "body": "Un bono de $200 pesos al dar de alta Tend como tu cuenta de depósito, para tener mayor control de tus ganancias semanales."
+          },
+          {
+            "body": "Podrás realizar y recibir depósitos desde tiendas OXXO."
+          },
+          {
+            "body": "También podrás realizar retiros en miles de cajeros automáticos."
+          },
+          {
+            "body": "Enviar y recibir dinero al instante, a cualquier banco (SPEI) y entre miembros Tend gratis. Ideal para dividir la cuenta."
+          },
+          {
+            "body": "$100,000 pesos de seguro de vida suministrado por Pan-American Life Insurance Group."
+          },
+          {
+            "body": "Un bono de $400 pesos por cada persona que refieras y se convierta en un cliente de Tend."
+          },
+          {
+            "body": "Acceso a un servicio bancario transparente, sin cargos ocultos, ni letras chiquitas. Todo esto por una suscripción mensual de $99 pesos al mes."
+          }
+        ]
+      },
+    "opinion": {
+        "headline": "¡Tu opinión es muy valiosa para nosotros!",
+        "copy": "¡Tu opinión es muy importante para nosotros!",
+        "copy-2": "Nos encantaría escuchar tus comentarios sobre la app. Envíanos tus ideas y sugerencias a <b>hey@tend.mx</b> para crear una mejor experiencia juntos.",
+        "copy-3": "Recibe un abrazo,",
+        "copy-4": "-Equipo Tend"
+    }
+  }

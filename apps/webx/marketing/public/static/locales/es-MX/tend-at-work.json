@@ -1,0 +1,126 @@
+{
+  "title": "Tend",
+  "description": "Los beneficios de tus empleados suben de nivel",
+  "hero": {
+    "moduleName": "T-1 Layered",
+    "label": "Tend para empresas",
+    "headline": "AUMENTA LOS BENEFICIOS DE TUS EMPLEADOS.",
+    "sub-copy": "Agrega todos los beneficios de la membresía Tend a tu plan de incentivos y ayuda a tus empleados a mejorar su vida financiera. Así tendrán una razón más para amar su trabajo.",
+    "image": "/photography/enUS/tend-at-work/hero.jpg",
+    "cta": {
+      "label": "Contáctanos",
+      "button": "/tend-at-work#tend-at-work-form"
+    }
+  },
+  "access-is-everything": {
+    "moduleName": "T-7 Split Image + HeadlineBodyCTA",
+    "headline": "El acceso lo es todo.",
+    "body": "Ayuda a tus empleados a construir su futuro y el de su familia. Cuando les das acceso a Tend, también les proporcionas una aplicación financiera de primera, creada para ayudarlos a crecer sus finanzas.",
+    "image": "/photography/enUS/tend-at-work/dad-kissing-his-daughter.png",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/mobile"
+    }
+  },
+  "go-further": {
+    "moduleName": "T-7 Split Image + HeadlineBodyCTA",
+    "headline": "QUE SU DINERO VAYA MÁS LEJOS.",
+    "body": "Con Tend, tus empleados tienen acceso a grandes ofertas de cashback en todo tipo de tiendas (incluso comercios locales). Además, pueden unirse a Tend Shares, nuestro programa de ingresos compartidos, el cual deposita dinero en efectivo y pagos mensuales por ayudar a que la comunidad crezca. Tú también puedes ganar Tend Shares, así reducirás costos mientras apoyas a tus empleados.",
+    "image": "/photography/enUS/tend-at-work/dekstop-and-coffee-and-plant.jpeg",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/shares"
+    }
+  },
+  "build-credit": {
+    "moduleName": "T-7 Split Image + HeadlineBodyCTA",
+    "headline": "AYÚDALES A CONSTRUIR SU HISTORIAL CREDITICIO.",
+    "body": "Cada membresía Tend incluye una línea de crédito asegurada por el 75% de su saldo de ahorros. De esta forma, pueden pedir un préstamo sin la necesidad de tocar sus ahorros. Y cuando lo paguen, estarán creando historial crediticio para pedir préstamos mayores en el futuro. Funciona para enfrentar imprevistos sin tener que olvidarse de sus planes.",
+    "image": "/photography/enUS/tend-at-work/girl-in-jean-shirt-and-her-purse.jpeg",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/line-of-credit"
+    }
+  },
+  "pay-them-sooner": {
+    "moduleType": "Bold Message Two column",
+    "headline": "Págales antes",
+    "body": "Organiza un depósito directo para pagar a tus empleados de 2 a 4 días más rápido que con un cheque. Y sin cheques que cortar, puedes disfrutar de un pago de nómina sin complicaciones. Eso sí que es eficiencia mejorada.",
+    "image": "/images/common/enUS/tend-smile.png",
+    "cta": {
+      "label": "Descubre más",
+      "url": "/get-paid-sooner"
+    }
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/bank.png",
+        "headline": "Banca móvil",
+        "body": "Una app segura y sencilla para manejarlo todo.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/mobile"
+        },
+        "ruleColor": "defaultMagenta"
+      },
+      {
+        "image": "/illustrations/grow.png",
+        "headline": "Cajeros automáticos sin comisión",
+        "body": "Retira efectivo en miles de cajeros en todo el país, sin comisión.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/debit-card"
+        },
+        "ruleColor": "defaultOrange"
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "headline": "ALGUNAS COSAS MÁS",
+        "body": "Transferencias bancarias entre cuentas, pagos móviles, pagos de facturas automáticos y mucho más.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/mobile-payments"
+        },
+        "ruleColor": "defaultYellow"
+      }
+    ]
+  },
+  "carousel-t": {
+    "moduleType": "Carousel T",
+    "tElements": [
+      {
+        "image": "/photography/enUS/tend-at-work/girl-chill-under-umbrella.jpeg",
+        "headline": "VACACIONES VIP.",
+        "body": "Cuando tus empleados usen la plataforma de viajes Tend, tendrán acceso a las mejores ofertas, además de 5% de cashback en vuelos, hoteles y renta de autos.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/travel-rewards"
+        }
+      },
+      {
+        "image": "/photography/enUS/tend-at-work/family-hanging-a-picture-on-the-wall.jpeg",
+        "headline": "Recompensas, solo por usar tu tarjeta",
+        "body": "Creemos que no deberías gastar tanto en una tarjeta de crédito sofisticada para disfrutar de beneficios bancarios, como jugosas gangas de cash back. Por eso, los miembros de Tend ganan hasta un 15% de cash back en muchos establecimientos—incluyendo tiendas físicas, online, y comercios locales.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/shopping-cashback"
+        }
+      },
+      {
+        "image": "/photography/enUS/tend-at-work/boxes-packed.jpeg",
+        "headline": "Un extra de tranquilidad",
+        "body": "Cada miembro de Tend es automáticamente inscrito en un seguro de muerte accidental con $100,000 de cobertura.",
+        "cta": {
+          "label": "Descubre más",
+          "url": "/cover"
+        }
+      }
+    ]
+  },
+  "form": {
+    "headline": "HAGAMOS RICOS A TUS EMPLEADOS.",
+    "body": "Cubre la membresía completa de cada empleado por $99 pesos al mes o parcialmente por $50 pesos al mes."
+  }
+}

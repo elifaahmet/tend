@@ -1,0 +1,16 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleName": "T-2 Expanded",
+    "headline": "GANA DINERO TODA LA VIDA E INCLUSO DESPUÉS.",
+    "sub-copy": "Sí, tu membresía Tend también incluye un seguro de vida por muerte accidental.",
+    "image": "/photography/enUS/cover/guy-skate-ollie.jpeg"
+  },
+  "be-prepared": {
+    "moduleName": "T-7 Image + Headline Body",
+    "headline": "¿Quién dice que no puedes estar preparado para lo peor?",
+    "body": "Como miembro Tend cuentas con un seguro de muerte y desmembramiento accidental de $100,000. No te costará ni un peso más, ni una cita con el doctor. Es tranquilidad para ti y tu familia.",
+    "image": "/illustrations/cover.png"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "img": "/photography/enUS/main/group-watching-sunset.jpg",
+    "headline": "Jalamos juntos",
+    "sub-copy": "Entra a Tend y obtén todo lo que necesitas para manejar mejor tu dinero.",
+    "bold-sub": "Pruébala gratis.",
+    "get-app": {
+      "enter-mobile": "Ingresa tu email",
+      "button-label": "Obtén la app"
+    },
+    "disclaimer": "Tend es una empresa enfocada al desarrollo de tecnología, no regulada por las autoridades del sector financiero mexicano. Los productos o servicios financieros son operados por Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero, una Institución de Banca Múltiple autorizada por la CNBV para constituirse y operar como Institución Financiera de Banca Múltiple, enfocada a ofrecer servicios bancarios y financieros. "
+  },
+  "moduleTwo": {
+    "moduleType": "two column",
+    "headline": "DILE HOLA A TEND",
+    "body": "Una nueva plataforma de finanzas personales diseñada para que encontrar tu bienestar financiero sea más fácil, rápido y amigable.",
+    "img": "/images/common/esMX/app_dashboard.png",
+    "list": [
+      {
+        "sub-heading": "Crece Tu Dinero ",
+        "text": "La app Tend es una máquina de ahorros seguros, depósitos directos y (muy pronto) transferencias internacionales, todo en uno."
+      },
+      {
+        "sub-heading": "Gana Más Recompensas",
+        "text": "Obtén las mejores ofertas en viajes para miembros Tend, hasta 5% de cashback y grandes descuentos en cientos de tiendas con tu tarjeta de débito Tend Mastercard."
+      },
+      {
+        "sub-heading": "Chatea. Conecta. Prospera",
+        "text": "Únete a The Green para hablar de hacks y tips de dinero y sé parte del futuro de Tend."
+      },
+      {
+        "sub-heading": "Obtén Tu Share",
+        "text": "Agrega fuentes de ingresos a tus finanzas al ganar Tend Shares, nuestro programa de ingresos compartidos."
+      },
+      {
+        "sub-heading": "Olvida Las Comisiones Ocultas",
+        "text": "Todo por $99 al mes. Punto. Sin comisiones ocultas ni cargos sorpresa."
+      }
+    ]
+  },
+  "bold-message": {
+    "moduleType": "Bold Message",
+    "headline": "Hagamos Banca juntos.",
+    "body": "Cuando se trata de banca, creemos en el poder colectivo. Es por eso que Tend no sólo está diseñada para ayudarte a tomar el control de tus finanzas - nuestro modelo de comunidad pone a los miembros en control de lo que venga para Tend más adelante y los recompensa con una parte de nuestros ingresos mensuales. Porque creemos que cuando más gente cuida su dinero, las cosas Tienden a mejorar para todos.",
+    "overlay": "/images/common/esMX/notification-pop-up.png"
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/grow.png",
+        "headline": "Recompensas ilimitadas",
+        "body": "Gana cashback al gastar en cientos de tiendas—físicas y en línea. Así como viajes internacionales.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/shopping-cashback"
+        },
+        "ruleColor": "defaultOrange"
+      },
+      {
+        "image": "/illustrations/borrow.png",
+        "headline": "Línea de crédito",
+        "body": "Accede a una línea de crédito del 75% de tus ahorros cuando lo necesites.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/line-of-credit"
+        },
+        "ruleColor": "defaultRed"
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "headline": "PAZ MENTAL",
+        "body": "Dales tranquilidad al contar con un seguro de muerte y desmembramiento accidental de $100,000.",
+        "cta": {
+          "label": "Echa un vistazo",
+          "url": "/cover"
+        },
+        "ruleColor": "defaultYellow"
+      }
+    ]
+  },
+  "perks-grid": {
+    "moduleType": "Perks Grid",
+    "perks": [
+      {
+        "headline": "Maneja tu dinero",
+        "body": "Ahorra, gasta, envía y crece tu dinero con herramientas para manejar tus finanzas.",
+        "cta": {
+          "label": "Conoce más",
+          "url": "/mobile"
+        },
+        "ruleColor": "defaultMagenta",
+        "comingSoonInner": false
+      },
+      {
+        "headline": "Gana",
+        "body": "Compra, desliza y gana con grandes descuentos y hasta 5% de cashback con la tarjeta de débito Tend Mastercard.",
+        "cta": {
+          "label": "Conoce más",
+          "url": "/shopping-cashback"
+        },
+        "ruleColor": "defaultOrange"
+      },
+      {
+        "headline": "Reserva",
+        "body": "Encuentra las mejores ofertas en vuelos, hoteles y experiencias en la sección de viajes Tend.",
+        "cta": {
+          "label": "Conoce más",
+          "url": "/travel"
+        },
+        "ruleColor": "defaultRed",
+        "comingSoon": false
+      },
+      {
+        "headline": "Conecta",
+        "body": "Mejora tus finanzas y ayuda a construir lo que viene en The Green, la casa de la comunidad Tend.",
+        "cta": {
+          "label": "Conoce más",
+          "url": "/the-green"
+        },
+        "ruleColor": "defaultYellow"
+      }
+    ]
+  },
+  "earn-extra-cash": {
+    "moduleType": "T-4 Stacked right",
+    "headline": "GANA DINERO POR COMPRAR, AHORRAR Y SUMÉRGETE EN TUS GANANCIAS.",
+    "body": "¿Quién dijo que necesitas una tarjeta de crédito costosa para conseguir las mejores ofertas? Definitivamente nosotros no. Con las ofertas de Tend Cashback en tiendas y viajes, crecerás tu cuenta de ahorro viviendo la vida.",
+    "image": "/photography/enUS/main/man-jumping-in-pool.jpg"
+  }
+}

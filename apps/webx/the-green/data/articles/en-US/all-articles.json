@@ -1,0 +1,103 @@
+[
+  {
+    "title": "What’s your money personality?",
+    "description":" Dissecting the different (and maddening) ways we all relate to money",
+    "categories": ["MONEYMINDSET"],
+    "hero_image": "money-personality.jpg",
+    "slug": "whats-your-money-personality",
+    "order": 1
+  },
+  {
+    "categories": ["MONEYMINDSET"],
+    "title": "Did You Earn Your Money, or Was It Luck?",
+    "hero_image": "did-you-earn-your-money.jpg",
+    "title_color": "orange",
+    "slug": "did-you-earn-your-money",
+    "order": 2
+  },
+  {
+    "categories": ["PERSONALFINANCE"],
+    "title_color": "red",
+    "hero_image": "break-up-with-your-bank.jpeg",
+    "title": "Should you dump your bank? 6 telltale signs it may be time for a new financial relationship.",
+    "slug": "its-over-6-telltale-signs-it-may-be-time-to-dump-your-bank",
+    "order": 3
+  },
+  {
+    "categories": ["MONEYMINDSET"],
+    "hero_image": "money-changes-everything.jpg",
+    "title_color": "yellow",
+    "title": "Money Changes Everything",
+    "slug": "money-changes-everything",
+    "order": 4
+  },
+  {
+    "categories": ["LOVEANDMONEY"],
+    "hero_image": "date-night.jpg",
+    "title_color": "red",
+    "title": "Harmless Pet Peeves or Serious Red Flags?",
+    "slug": "harmless-pet-peeves-or-serious",
+    "order": 5
+  },
+  {
+    "categories": ["FUNMONEY"],
+    "hero_image": "play-money.jpg",
+    "description": "What are pretend economies teaching us?",
+    "title": "Play Money",
+    "slug": "play-money",
+    "order": 6
+  },
+  {
+    "title": "Sip, save, repeat - don’t let the bar tab be a buzzkill.",
+    "description": "Drinking alcohol can be fun--but also quite expensive. Whether you abstain or simply choose to reduce your intake, here are a few ways to cut costs and save money.",
+    "categories": ["PERSONALFINANCE"],
+    "slug": "sip-save-repeat-dont-let-the-bar-tab-be-a-buzzkill",
+    "order": 7
+  },
+  {
+    "title": "The Long Con",
+    "description": "Fraudsters, swindlers, hustlers and other scam artists have been separating us from our money since forever. It's not getting better.",
+    "categories": ["#MONEYMINDSET"],
+    "slug": "the-long-con",
+    "order": 8
+  },
+  {
+    "categories": ["LOVEANDMONEY"],
+    "title_color": "orange",
+    "title": "If money can’t buy you love...",
+    "hero_image": "if-money-can-not-buy-you-love.jpeg",
+    "slug": "if-money-cannot-buy-you-love",
+    "order": 9
+  },
+  {
+    "categories": ["PERSONALFINANCE"],
+    "title": "Paleo? Vegan? Keto?",
+    "title_color": "magenta",
+    "hero_image": "paleo.jpeg",
+    "slug": "paleo-vegan-keto",
+    "order": 10
+  },
+  {
+    "categories": ["PERSONALFINANCE"],
+    "title_color": "red",
+    "hero_image": "animal-crossing.jpeg",
+    "title": "tricky-tricky-5-money-lessons-learned-by-playing-animal-crossing",
+    "order": 11
+  },
+  {
+    "categories": ["PERSONALFINANCE"],
+    "title_color": "yellow",
+    "title": "How to make man’s best friend your wallet’s buddy...",
+    "hero_image": "mans-best-friend.jpeg",
+    "slug": "mans-best-friend",
+    "order": 12
+  },
+  {
+    "title": "Let's talk about checks baby...",
+    "description": "On which number date is it ok to start talking about money? We’re breaking down this taboo topic including tips from dating experts on when (and how) to get financially naked in a new relationship.",
+    "categories": ["LOVEANDMONEY"],
+    "hero_image": "dinner-table.jpg",
+    "slug": "lets-talk-about-checks-baby",
+    "order": 13
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "title": "Tend",
+  "description": "Earn all the same fancy-pants rewards, with none of the unfashionable credit card debt.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/debit-card/girl-laughing-ice-cream.jpg",
+    "headline": "Works like a debit card, rewards like a credit card.",
+    "sub-copy": "Instead of resenting those lucky, money-making bastards with the fancy card, become one.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "go-somewhere": {
+    "moduleType": "T-7 Two Column - Image + Headline Body",
+    "image": "/photography/enUS/debit-card/taco-truck.jpg",
+    "headline": "EAT TACOS. GET PAID.",
+    "body": "Use your Tend Visa debit card and get up to 15% back at thousands of retailers, from CVS to Buffalo Wild Wings. And find the best deals on over 200,000 items, curated daily from top retailers, like Macy’s, Walgreens, and Best Buy. All the money-saving benefits of bargain hunting, with way less time hunting for bargains."
+  },
+  "splurge": {
+    "moduleType": "T-7 Two Column - Image + Headline Body",
+    "image": "/photography/enUS/debit-card/flamingo-floatie.jpg",
+    "headline": "GET PAID TO TAKE P.T.O.",
+    "body": "Find sweet travel deals and earn up to 15% cash back when you book hotels, flights and rental cars on the Tend travel platform."
+  },
+  "equation": {
+    "moduleType": "Equation",
+    "shopping": "Shopping",
+    "cash-back": "Cash Back",
+    "get-paid": "Get Paid"
+  },
+  "dive-bar": {
+    "moduleType": "Bold Message - Headline + Body",
+    "headline": "Don’t fret the dive bar.",
+    "body": "You won’t get charged any fees when you use your Tend debit card at over 37,000 ATMs nationwide.^"
+  },
+  "card-free-payments": {
+    "moduleType": "Two Column - Image + Headline/Body ",
+    "headline": "Card (and germ) free payments.",
+    "body": "Turns out that fancy tap-to-pay technology isn’t just for fancy credit cards—it’s for Tend members, too. And <b>(Coming soon)</b> you’ll also get access to Apple Pay and Google Pay, so you won’t even have to get your card out of your wallet.",
+    "image": "/images/common/enUS/tend_debit_card.png"
+  }
+}

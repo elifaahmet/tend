@@ -1,0 +1,34 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/mobile-banking/girl-reading-in-bath.jpeg",
+    "headline": "TODOS LOS SERVICIOS A SOLO UNOS CLICS.",
+    "sub-copy": "Con la banca móvil de Tend es fácil manejar tu dinero en cualquier momento y lugar—desde el bar, la playa o la comodidad de tu casa.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "debit-card": {
+    "moduleType": "Two Column Image + Headline Body",
+    "headline": "Una tarjeta de débito diseñada para el siglo 21.",
+    "body": "Cuando te unes a Tend, recibes una tarjeta de débito Mastercard para que dispongas de tu dinero donde quieras. Gestiónalo todo desde la app Tend, disponible para iOS y Android.",
+    "image": "/images/common/enUS/debit-cards.png"
+  },
+  "value-props": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/photography/esUS/mobile-banking/men-on-beach-with-surfboards.jpeg",
+    "value-props": [
+      {
+        "label": "Manda y recibe dinero fácilmente.",
+        "body": "Paga tus cuentas, a tus amigos y a tu familia aunque esté en el extranjero, todo desde tu celular."
+      },
+      {
+        "label": "Retira dinero sin comisiones.",
+        "body": "Tendrás miles de cajeros automáticos sin comisiones en todo el país, así podrás tener efectivo para emergencias o para compras impulsivas camino a casa."
+      }
+    ]
+  }
+}

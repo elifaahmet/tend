@@ -1,0 +1,25 @@
+{
+  "title": "Tend",
+  "description": "Transfiere dinero con seguridad total cuando más importa.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "headline": "Manda dinero sin fronteras.",
+    "sub-copy": "Transfiere dinero con seguridad total cuando más importa.",
+    "image": "/photography/enUS/international-transfers/looking-out-airplan-window.jpeg",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "send-money-abroad": {
+    "moduleType": "Bold Message - Headline + Body",
+    "headline": "Paga menos para mandar dinero al extranjero.",
+    "body": "La app de Tend tendrá la manera más rápida y accesible para mandar dinero a todo el mundo. Mientras puedes probar con Transferwise y Remitly."
+  },
+  "mexico-transfers": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Transferencias instantáneas a México.",
+    "body": "Podrás transferir dinero al instante a miembros de Tend en México.",
+    "image": "/illustrations/travel.png"
+  }
+}

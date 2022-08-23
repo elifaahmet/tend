@@ -1,0 +1,37 @@
+{
+  "title": "Tend",
+  "description": "Aumenta tu cartera con Tend Shares.",
+  "hero": {
+    "moduleName": "T-1 Layered right",
+    "headline": "Crece tu dinero con Tend Shares",
+    "body": "Nuestro programa de ingresos compartidos, Tend Shares, agrega una nueva línea de ingresos a tus finanzas.",
+    "image": "/photography/enUS/shares/woman-sitting-on-bed-looking-out-window.jpg",
+    "cta": {
+      "label": "Join Us",
+      "url": "/join-us"
+    }
+  },
+  "matches": {
+    "moduleName": "T-7 Layered right",
+    "headline": "PAN Y CAFÉ. LIMÓN Y SAL. TU DINERO Y TEND.",
+    "body": "Creemos que hacerlo juntos es mejor. Todo esto de la banca funciona mejor cuando es dirigida y enfocada en la comunidad. Por eso, compartimos nuestros ingresos con nuestra comunidad a través del programa Tend Shares.",
+    "image": "/photography/enUS/shares/girls-laughing.jpeg"
+  },
+  "calculator": {
+    "headline": "DESCUBRE CUÁNTO PUEDES GANAR Y AHORRAR CADA AÑO CON TEND SHARES.",
+    "body": "¿A cuántas personas referirás a Tend al año?"
+  },
+  "monthly-payouts": {
+    "moduleName": "Two Column - Image + Headline Body",
+    "headline": "Recibe pagos mensuales de por vida.",
+    "body": "Recibirás dinero mensualmente según el número de Tend Shares que tengas— siempre y cuando tú y tus referidos sean miembros de Tend. Ganarás Tend Shares por activar tu nómina y referir amigos y familiares. Entre más Tend Shares tengas, más dinero ganas. Después de todo, al dinero le gusta la compañía.",
+    "image": "/illustrations/thegreen.png"
+  },
+  "more-is-more": {
+    "moduleName": "T-4 Stacked",
+    "headline": "A veces, más es realmente más.",
+    "body": "Dicen que se necesita dinero para hacer dinero, pero con Tend, solo hacen falta amigos. Te daremos un mes gratis de tu membresía Tend cada vez que uno de tus referidos se una. Además, recibirás un bono de $500 pesos por cada 12 amigos que recomiendes y $1,000 pesos cuando llegues a 24. *Todo esto es adicional a tu pago mensual del programa Tend Shares. *Aplican términos y condiciones",
+    "disclaimer": "*Aplican términos y condiciones",
+    "image": "/photography/enUS/shares/pizza-close-up.jpeg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Tend",
+  "description": "Make payments right from your phone.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/mobile-payments/person-under-covers.jpeg",
+    "headline": "Paga directamente desde tu teléfono",
+    "sub-copy": "Allá donde vaya tu dinero, nos aseguraremos de que llegue sano, salvo y justo a tiempo.",
+    "cta": {
+      "label": "Join us",
+      "url": "https://tend.money"
+    }
+  },
+  "the-friend": {
+    "moduleType": "Bold Message",
+    "headline": "Sé el amigo con dinero",
+    "body": "Transfiere dinero entre miembros de Tend al instante. Perfecto para pagar a medias, la renta o ajustar cuentas. Así necesitarás una app financiera menos con la que compartir tus datos."
+  },
+  "transfers": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/photography/enUS/mobile-payments/girls-back-playing-pin-ball.jpeg",
+    "value-props": [
+      {
+        "label": "La transferencia de toda la vida, mejorada.",
+        "body": "Dile adiós a las transferencias anticuadas con Tend. No vuelvas a pisar un banco para transferir dinero o pagar una factura. Y <b>(muy pronto)</b> también podrás depositar cheques desde tu app Tend.",
+        "comingSoonInner": true
+      },
+      {
+        "label": "Manda dinero por todo el mundo.",
+        "body": "La app de Tend tendrá la manera más rápida y accesible para mandar dinero a todo el mundo. Mientras puedes probar con Transferwise y Remitly.",
+        "comingSoonInner": true
+      },
+      {
+        "label": "Más de una manera.",
+        "body": "Todos los miembros Tend tendrán acceso a Venmo y PayPal, así como a tarjetas virtuales de Google y Apple Pay.",
+        "comingSoon": "(Muy pronto)"
+
+      }
+    ]
+  },
+  "shares": {
+    "moduleType": "T-4 Stacked",
+    "headline": "Todo el equipo en la misma onda.",
+    "body": " Pagar a amigos, peluqueros, y a las niñeras es más fácil cuando todo el mundo tiene Tend. Ganarás un bonus y un Tend Share por cada miembro al que recomiendes. Esa acción te recompensará con efectivo cada mes. Así que, adelante, divide la cuenta en ocho.",
+    "image": "/photography/enUS/mobile-payments/girls-laughing.jpeg",
+    "cta": {
+      "label": "Recomienda a un amigo",
+      "url": "/"
+    }
+  }
+}

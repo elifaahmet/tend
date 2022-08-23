@@ -1,0 +1,25 @@
+{
+  "title": "Tend",
+  "description": "Transfiere dinero con seguridad total cuando más importa.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "headline": "Cada peso cuenta.",
+    "sub-copy": "La espera terminó. Transferencias internacionales de Estados Unidos a México sin comisión de una cuenta Tend a otra - así tu familia gasta menos al enviarte dinero.",
+    "image": "/photography/esMX/international-transfers/girl-with-tatoo.jpg",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "send-money-abroad": {
+    "moduleType": "Bold Message - Headline + Body",
+    "headline": "TE ENVÍAN DÓLARES, RECIBES PESOS.",
+    "body": "Todos merecemos una mejor experiencia financiera. Por eso Tend, una forma fácil de ahorrar, gastar, enviar y crecer tu dinero ahora también es una forma rápida, segura y accesible para recibir dinero en México."
+  },
+  "mexico-transfers": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "TRANSFERENCIAS SENCILLAS ENTRE FRONTERAS.",
+    "body": "1.  Descarga la app Tend y regístrate en minutos desde tu celular. <br/>2.  Fondea tu cuenta (mínimo $100) para empezar a vivir la experiencia Tend y recibir tu tarjeta de débito.<br>3.  Avísale a tu familiar en Estados Unidos que descargue la app y haga un depósito inicial en su cuenta también.<br>4. Una vez que te depositen, lo recibirás en tu cuenta al instante.<br><br>Si lo prefieres, tu familia puede hacerte ese depósito inicial para que recibas tu tarjeta más rápido.<br><br>Necesitarás tu INE y un comprobante de domicilio al recibirla.",
+    "image": "/illustrations/piggy.png"
+  }
+}

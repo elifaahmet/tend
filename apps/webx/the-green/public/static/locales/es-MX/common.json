@@ -1,0 +1,296 @@
+{
+  "Tend - The Green": "Tend - The Green",
+  "Privacy": "Privacidad",
+  "Copyright": "TEND MONEY",
+  "Accessibility": "Accesibilidad",
+  "Terms": "Términos",
+  "Contact": "Contacto",
+  "Sign In": "Inicia Sesión",
+  "Username": "Usuario",
+  "Password": "Contraseña",
+  "New here": "¿ERES NUEVO? DESCARGA LA APP DE TEND Y REGÍSTRATE AHORA.",
+  "Search": "Buscar",
+  "Search results": "Resultados de tu búsqueda",
+  "No results": "Sin resultados",
+  "Product Roadmap": "Plan de Producto",
+  "Learn More": "Conoce más",
+  "Create New Post": "Crear Nueva Publicación",
+  "Read More": "Leer más",
+  "Follow Discussion": "Seguir la conversación",
+  "Latest Comments": "Últimos Comentarios",
+  "Comment": "Comentar",
+  "Comments": "Comentarios",
+  "Category": "Categoría",
+  "Categories": "Categorias",
+  "Title": "Título",
+  "Message": "Mensaje",
+  "Post": "Posteo",
+  "Views": "Vistas",
+  "Replies": "Respuestas",
+  "Latest Posts in": "Últimos posteos de",
+  "Latest Post": "Último Posteo",
+  "Members Content": "Contenido para miembros",
+  "Message Board": "Panel de Mensajes",
+  "Visit Message Board": "Visita el Panel de Mensajes",
+  "Topics": "Temas",
+  "Tweets by tendmoney": "Tweets de tendmoneymx",
+  "We want your two cents": "Queremos tu opinión",
+  "Make a suggestion": "Haz una sugerencia",
+  "New Suggestion": "Nueva Sugerencia",
+  "Try Again": "Intenta de Nuevo",
+  "Your email": "Correo",
+  "Your message": "Tu mensaje",
+  "Sign in or up": "Inicia sesión o registrate",
+  "to": "a",
+  "Join the conversation": "Únete a la conversación",
+  "start the conversation": "Inicia la conversación",
+  "There is": "Existe",
+  "There are": "Existen",
+  "Reply": "Respuesta",
+  "Replying to": "Responder a",
+  "Quiet here": "Mucho silencio por aquí",
+  "Apology-error": "Lo sentimos, ocurrió un error. Inténtalo más tarde.",
+  "Enter creds": "Por favor ingresa tu usuario y contraseña.",
+  "Invalid login credentials": "Credenciales de acceso invalidos.",
+  "tend-poll": {
+    "title": "Encuesta TEND",
+    "sub-title": "¿Qué tanto te gusta obtener recompensas mensuales?"
+  },
+  "Join Tend": "ÚNETE A TEND",
+  "pay-wall-header": "¿AÚN NO ERES PARTE DE LA FAMILIA?",
+  "Load all posts": "Cargar todos los posteos",
+  "Visit message board": "Visitare el Panel de Mensajes",
+  "Coming Soon": "Muy pronto",
+  "nickname": {
+    "title": "Bienvenido a The Green",
+    "content": "Elige un nombre de usuario para empezar a conversar",
+    "footer": "Establece tu nombre de usuario",
+    "input-placeholder": "Elige tu nobre de usuario"
+  },
+  "member-content": {
+    "title": "Contenido para Miembros",
+    "body": "Accede a todo el contenido, para comentar e interactuar con TEND deber ser miembro."
+  },
+  "product-roadmap": {
+    "title": {
+      "first-line": "Plan De",
+      "second-line": "Producto"
+    },
+    "body": "El futuro lo hacemos juntos. Cuando lleguemos a 25 mil usuarios, lanzaremos un plan de producto interactivo en el que los miembros podrán sugerir nuevas funcionalidades y votar por los siguientes desarrollos.",
+    "elements": [
+      {
+        "title": "Crypto",
+        "bottomLineColor": "defaultYellow",
+        "rightLineColor": "defaultMagenta"
+      },
+      {
+        "title": "Seguros",
+        "bottomLineColor": "defaultRed",
+        "rightLineColor": "defaultMagenta"
+      },
+      {
+        "title": "IA Asistente Virtual",
+        "bottomLineColor": "defaultOrange",
+        "rightLineColor": "defaultTransparent"
+      },
+      {
+        "title": "Transferencias Globales Instantáneas",
+        "bottomLineColor": "defaultRed",
+        "rightLineColor": "defaultMagenta"
+      },
+      {
+        "title": "Planeación de gastos dinámica ",
+        "bottomLineColor": "defaultMagenta",
+        "rightLineColor": "defaultOrange"
+      },
+      {
+        "title": "Préstamos",
+        "bottomLineColor": "defaultOrange",
+        "rightLineColor": "defaultTransparent"
+      },
+      {
+        "title": "Ofertas Exclusivas de Temporada ",
+        "bottomLineColor": "defaultRed",
+        "rightLineColor": "defaultYellow"
+      },
+      {
+        "title": "Asistente Financiero Virtual ",
+        "bottomLineColor":"defaultYellow",
+        "rightLineColor": "defaultRed"
+      },
+      {
+        "title": "Manejo de Crédito y Deuda ",
+        "bottomLineColor": "defaultMagenta",
+        "rightLineColor": "defaultTransparent"
+      }
+    ]
+  },
+  "search": {
+    "form":{
+      "error": "Ingresa la palabra que quieres buscar"
+    }
+  },
+  "equation":{
+    "you": "Tú",
+    "them": "Ellos",
+    "everyone-wins": "Todos ganan"
+  },
+  "message-board":{
+    "title": {
+      "first-line": "Panel De",
+      "second-line": "Mensajes"
+    },
+    "body": "¿Tienes algún tema que quieras debatir? Postéalo y compártelo con la comunidad"
+  },
+  "Back To Tend": "Regresar a Tend",
+  "Other": "Otro",
+  "Description": "Bienvenido a The Green",
+  "contact": {
+    "title": "Contacto",
+    "email": "hey@tend.mx",
+    "tel": "55 40004030",
+    "weekdays": "Lunes–Viernes: 7am–10pm EST",
+    "weekend": "Sábado–Domingo: 7am–3pm EST",
+    "working-hours": "Disponible 24/7/365"
+  },
+  "images": {
+    "google-play": "/images/spanish-google.png",
+    "app-store": "/images/spanish-apple.png"
+  },
+  "privacy": {
+    "title": "Políticas de Privacidad",
+    "url": "/privacy"
+  },
+  "form": {
+    "first-name": "Nombre",
+    "last-name": "Apellido",
+    "name-short": "Nombre",
+    "company": "Empresa",
+    "phone-number": "Teléfono",
+    "email": "Email",
+    "message": "Mensaje",
+    "success": "Gracias por contactarnos, alguien se comunicará pronto.",
+    "error": {
+      "generic": "Algo salió mal. Vuelve a intentarlo más tarde.",
+      "field": "Por favor ingrese {{field}}"
+    }
+  },
+  "meta": {
+    "defaultTitle": "Tend Money - The Green",
+    "defaultDescription": "Tend Money - The Green",
+    "disclaimer": "Tend es una empresa enfocada al desarrollo de tecnología, no regulada por las autoridades del sector financiero mexicano. Los productos o servicios financieros son operados por Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero, una Institución de Banca Múltiple autorizada por la CNBV para constituirse y operar como Institución Financiera de Banca Múltiple, enfocada a ofrecer servicios bancarios y financieros. "
+  },
+  "navigation": [
+    {
+      "title": "Banca",
+      "slug": "bank",
+      "meta": {
+        "background": "#FFC73D",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Banca móvil",
+          "slug": "mobile"
+        },
+        {
+          "title": "Nómina",
+          "slug": "get-paid-sooner"
+        },
+        {
+          "title": "Línea de crédito",
+          "slug": "line-of-credit"
+        },
+        {
+          "title": "Pagos móviles",
+          "slug": "mobile-payments"
+        },
+        {
+          "title": "Tarjeta de débito",
+          "slug": "debit-card"
+        },
+        {
+          "title": "Transferencias internacionales",
+          "slug": "international-transfers"
+        }
+      ]
+    },
+    {
+      "title": "Ganancias",
+      "slug": "earn",
+      "meta": {
+        "background": "#F79234",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Tend Shares",
+          "slug": "shares"
+        },
+        {
+          "title": "Viajes",
+          "slug": "travel"
+        },
+        {
+          "title": "Recompensas por compras",
+          "slug": "shopping-cashback"
+        }
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "slug": "cover"
+    },
+    {
+      "title": "Tend at work",
+      "slug": "tend-at-work"
+    },
+    {
+      "title": "The Green",
+      "slug": "the-green"
+    },
+    {
+      "title": "Nosotros",
+      "slug": "about"
+    },
+    {
+      "title": "Ayuda",
+      "slug": "support",
+      "meta": {
+        "background": "#173D38",
+        "color": "#ffffff"
+      },
+      "children": [
+        {
+          "title": "Contáctanos",
+          "slug": "get-in-touch"
+        },
+        {
+          "title": "Preguntas y respuestas",
+          "slug": "faq"
+        }
+      ]
+    }
+  ],
+  "manifesto": {
+    "title":"Introducción a The Green",
+    "description":"El objetivo principal del sector financiero es servir de intermediario entre solicitantes de préstamos y ahorradores, e históricamente ha establecido relaciones como asesor y proveedor de capital de manera descendente.",
+    "author":"James H Dunavant",
+    "categories": "Haz crecer tu Green",
+    "hero_image":"product-roadmap.png",
+    "slug":"introduccion-a-the-green",
+    "headline": "Introducción a",
+    "subHeadline": "THE GREEN"
+  },
+  "spotify": {
+    "href": "https://embed.spotify.com/playlist/15hNgKIkSkmVlZe5GDRGfI"
+  },
+  "social-media-links": {
+    "instagram": "https://www.instagram.com/tendmoneymx",
+    "facebook": "https://www.facebook.com/tendmoney",
+    "twitter": "https://twitter.com/tendmoneymx"
+  },
+  "twitter-card": {
+    "href": "https://twitter.com/tendmoneymx?ref_src=twsrc%5Etfw"
+  }
+}

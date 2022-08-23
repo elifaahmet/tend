@@ -1,0 +1,168 @@
+{
+  "title": "Tend",
+  "description": "Managing your money shouldn’t come with hidden fees, lousy service or stress headaches. Let’s feng shui your banking experience—for $9.95/month.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "img": "/photography/enUS/main/group-watching-sunset.jpg",
+    "headline": "Let’s make bank.",
+    "sub-copy": "Join Tend and get everything you need to be less bad at money.",
+    "bold-sub": "Try it free.",
+    "get-app": {
+      "enter-mobile": "Enter your mobile number here",
+      "button-label": "Get App"
+    },
+    "disclaimer": "Tend is a financial technology company, not a bank. Banking services provided by nbkc bank, Member FDIC. International transfer banking services are provided by CFSB, Member FDIC.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "moduleTwo": {
+    "moduleType": "two column",
+    "headline": "Say hi to Tend.",
+    "body": "A new kind of digital personal finance platform designed to make finding financial wellness easier, faster, and more human.",
+    "img": "/images/common/enUS/tend_app.png",
+    "list": [
+      {
+        "sub-heading": "Make Money Moves",
+        "text": "The Tend app is a secure-savings-direct-depositing-p-2-p-and-transfers-to-Mexico-all-in-one money moving machine."
+      },
+      {
+        "sub-heading": "Earn More Rewards",
+        "text": "Get the best members-only deals on travel, up to 15% cashback, and deep discounts at top retailers with the Tend Visa debit card."
+      },
+      {
+        "sub-heading": "Chat. Connect. Thrive",
+        "text": "Join The Green to talk money hacks, tips and tricks and weigh-in on where Tend goes from here."
+      },
+      {
+        "sub-heading": "Get Your Share",
+        "text": "Add revenue streams to your finances by earning Tend Shares, our shared revenue program."
+      },
+      {
+        "sub-heading": "Ditch Hidden Fees",
+        "text": "Get it all for a flat $9.95 a month. Period. No surprises. No headaches."
+      }
+    ]
+  },
+  "bold-message": {
+    "moduleType": "Bold Message",
+    "headline": "We bank better together.",
+    "body": "When it comes to banking, we believe in the power of ‘we.’ That’s why Tend isn’t just designed to help members take control of their finances – our unique community model puts members in control of where we go from here and rewards them with a portion of our monthly revenue. Because we believe when more people can Tend to their money, things Tend to get better for more people.",
+    "overlay": "/images/common/enUS/notification-pop-up.png",
+    "cta": {
+      "label": "Visit The Green",
+      "url": "/the-green"
+    }
+  },
+  "moduleFour": {
+    "moduleType": "T-4 Stacked",
+    "image": "/main/manUnderWater.jpg",
+    "headline": "We bank better together",
+    "body": "When it comes to banking, we believe honesty is the best perk of all. At Tend, what you see is exactly what you get, revenue is something we all grow together, and products and features are things we build to make members’ lives easier—not to nickel and dime them. Join the conversation over at The Green, our online watering hole.",
+    "cta": {
+      "label": "Visit The Green",
+      "url": "/the-green"
+    }
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/bank.png",
+        "headline": "Direct deposit",
+        "body": "Get a free month and earn cash monthly with your first Tend Share. And <b>(Coming Soon)</b> get your paycheck sooner.",
+        "cta": {
+          "label": "Take a look",
+          "url": "/get-paid-sooner"
+        },
+        "ruleColor": "defaultMagenta",
+        "comingSoonInner": true
+      },
+      {
+        "image": "/illustrations/grow.png",
+        "headline": "Limitless rewards",
+        "body": "Earn cashback when you spend at thousands of shops – online plus in-store – and on global travel.",
+        "cta": {
+          "label": "Take a look",
+          "url": "/shopping-cashback"
+        },
+        "ruleColor": "defaultOrange"
+      },
+      {
+        "image": "/illustrations/borrow.png",
+        "headline": "Line of credit",
+        "body": "Access up to 75% of the amount in your savings as a secured line of credit, just in case. ",
+        "cta": {
+          "label": "Take a look",
+          "url": "/line-of-credit"
+        },
+        "ruleColor": "defaultRed",
+        "comingSoon": true
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "headline": "Peace of Mind",
+        "body": "Automatically get a $10,000 accidental death and dismemberment insurance for a little extra peace of mind.",
+        "cta": {
+          "label": "Take a look",
+          "url": "/cover"
+        },
+        "ruleColor": "defaultYellow"
+      }
+    ]
+  },
+  "perks-grid": {
+    "moduleType": "Perks Grid",
+    "perks": [
+      {
+        "headline": "Bank",
+        "body": "Save, spend, send and grow your green with (em)powerful money tools.",
+        "cta": {
+          "label": "Learn More",
+          "url": "/mobile"
+        },
+        "ruleColor": "defaultMagenta",
+        "comingSoonInner": false
+      },
+      {
+        "headline": "Earn",
+        "body": "Shop, swipe and earn with deep discounts and up to 15% cashback with the Tend Visa debit card.^^",
+        "cta": {
+          "label": "Learn More",
+          "url": "/shopping-cashback"
+        },
+        "ruleColor": "defaultOrange"
+      },
+      {
+        "headline": "Book",
+        "body": "Find the best prices on flights, hotels, rental cars, and experiences with the Tend travel portal.",
+        "cta": {
+          "label": "Learn More",
+          "url": "/travel"
+        },
+        "ruleColor": "defaultRed",
+        "comingSoon": false
+      },
+      {
+        "headline": "Connect",
+        "body": "Step up your money game and help steer social impact efforts on The Green, the home for the Tend community.",
+        "cta": {
+          "label": "Learn More",
+          "url": "/the-green"
+        },
+        "ruleColor": "defaultYellow"
+      }
+    ]
+  },
+  "earn-extra-cash": {
+    "moduleType": "T-4 Stacked right",
+    "headline": "Earn extra cash for spending, saving and swimming in.",
+    "body": "Who says you need an expensive credit card to access deep discounts and generous cashback offerings? Definitely not us. With Tend cashback deals on retail and travel, you’ll save money just by living your life.",
+    "image": "/photography/enUS/main/man-jumping-in-pool.jpg",
+    "cta": {
+      "label": "Earn",
+      "url": "/shopping-cashback"
+    }
+  }
+}

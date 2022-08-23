@@ -1,0 +1,199 @@
+{
+  "join-now-cta": {
+    "label": "Join Now",
+    "href": "/#"
+  },
+  "cta": {
+    "about": "CONOCE MÁS",
+    "join-now": "ÚNETE YA",
+    "join-us": "ÚNETE YA",
+    "get-started": "Get started",
+    "take-a-look": "Echa un vistazo",
+    "try-it-free": "Pruébala gratis",
+    "learn-more": "Descubre más",
+    "refer-a-friend": "Recomienda a un amigo",
+    "get-in-touch": "Contáctanos",
+    "submit": "Enviar",
+    "visit-the-green": "Visita The Green",
+    "search-our-help": "Explora nuestro centro de ayuda",
+    "send-email": "Mandar mensaje"
+  },
+  "form": {
+    "first-name": "Nombre",
+    "last-name": "Apellido",
+    "name-short": "Nombre",
+    "company": "Empresa",
+    "phone-number": "Teléfono",
+    "email": "Email",
+    "message": "Mensaje",
+    "success": "Gracias por contactarnos, alguien se comunicará pronto.",
+    "error": {
+      "generic": "Algo salió mal. Vuelve a intentarlo más tarde.",
+      "field": "Por favor ingrese {{field}}"
+    },
+    "placeholder": "Email",
+    "buttonText": "UNIRSE A LA LISTA DE ESPERA",
+    "reset": "AÑADIR OTRO CORREO ELECTRÓNICO",
+    "success-subscribe": "¡Gracias por suscribirte!",
+    "loading": "POR FAVOR ESPERA"
+  },
+  "images": {
+    "tend-app": "/images/common/esUS/tend_app_iphone12.png",
+    "tend-debit-card": "/images/common/esUS/tend_debit_card_visa.png",
+    "google-play": "/images/common/esUS/spanish-google.png",
+    "app-store": "/images/common/esUS/spanish-apple.png"
+  },
+  "other": "Otro",
+  "contact": {
+    "title": "Contacto",
+    "email": "hey@tend.money",
+    "tel": "1-833-TEND-HEY",
+    "weekdays": "Lunes–Viernes: 7am–10pm EST",
+    "weekend": "Sábado–Domingo: 7am–3pm EST",
+    "working-hours": "Disponible 24/7/365"
+  },
+  "privacy": {
+    "title": "Intimidad",
+    "url": "/privacy"
+  },
+  "terms": {
+    "title": "Condiciones",
+    "url": "/terms"
+  },
+  "accessibility": {
+    "title": "Accesibilidad",
+    "url": "/accessibility"
+  },
+  "app-urls": {
+    "google-play": "https://play.google.com/store/apps/details?id=money.tend.app",
+    "app-store": "https://apps.apple.com/us/app/tend-money/id1554963043"
+  },
+  "title": "Tend - ¡Próximamente, en breve, pronto!",
+  "hero": {
+    "title": "Disfruta el lista de espera. Gana una tina de dinero.",
+    "body": "Creemos que la banca diaria, encontrar grandes ofertas y maximizar su dinero no tiene por qué ser tan complicado. Y que todos merecen una oportunidad justa para hacerse ricos. Le enviaremos una invitación para unirse a Tend cuando lancemos, y lo ingresaremos para tener la oportunidad de ganar una bañera llena de dinero. Para nadar, ahorrar o gastar: su dinero, su llamada.",
+    "img": "/landing/tend_app_es-US.png"
+  },
+  "countdown": {
+    "days": "días",
+    "hours": "horas",
+    "minutes": "minutos",
+    "seconds": "segundos"
+  },
+  "sweepstakesRules": "Reglas del sorteo",
+  "error": {
+    "label": "error",
+    "unspecific": "Se produjo un error. Vuelve a intentarlo más tarde."
+  },
+  "navigation": [
+    {
+      "title": "Banca",
+      "slug": "bank",
+      "meta": {
+        "background": "#FFC73D",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Banca móvil",
+          "slug": "mobile"
+        },
+        {
+          "title": "Nómina",
+          "slug": "get-paid-sooner"
+        },
+        {
+          "title": "Línea de crédito",
+          "slug": "line-of-credit"
+        },
+        {
+          "title": "Pagos móviles",
+          "slug": "mobile-payments"
+        },
+        {
+          "title": "Tarjeta de débito",
+          "slug": "debit-card"
+        },
+        {
+          "title": "Transferencias internacionales",
+          "slug": "international-transfers"
+        }
+      ]
+    },
+    {
+      "title": "Ganancias",
+      "slug": "/earn",
+      "meta": {
+        "background": "#F79234",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Tend Shares",
+          "slug": "shares"
+        },
+        {
+          "title": "Viajes",
+          "slug": "travel"
+        },
+        {
+          "title": "Recompensas por compras",
+          "slug": "shopping-cashback"
+        },
+        {
+          "title": "Grandes descuentos",
+          "slug": "deep-discounts"
+        }
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "slug": "cover"
+    },
+    {
+      "title": "Tend para empresas",
+      "slug": "tend-at-work"
+    },
+    {
+      "title": "The Green",
+      "slug": "the-green"
+    },
+    {
+      "title": "Nosotros",
+      "slug": "about"
+    },
+    {
+      "title": "Ayuda",
+      "slug": "support",
+      "meta": {
+        "background": "#173D38",
+        "color": "#ffffff"
+      },
+      "children": [
+        {
+          "title": "Contáctanos",
+          "slug": "get-in-touch"
+        },
+        {
+          "title": "Preguntas y respuestas",
+          "slug": "faq"
+        }
+      ]
+    }
+  ],
+  "ready_to_join": {
+    "headline": "¿Listo para unirte?",
+    "body": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $9.95/mes.",
+    "cta": {
+      "label": "ÚNETE YA",
+      "url": "/"
+    }
+  },
+  "sticky_footer": {
+    "disclaimer": "Tend es una empresa de tecnología financiera, no un banco. Los servicios bancarios se ofrecen a través de nbkc bank, Miembro FDIC y de Community Federal Savings Bank, Miembro FDIC."
+  },
+  "disclosures": {
+    "dive_bar": "^ Puedes usar tu tarjeta de débito Tend en más de 37,000 cajeros dentro del MoneyPass Network en todo el mundo. Tend no cobra tarifas de cajero automático, pero algunos proveedores de cajeros automáticos pueden cobrar tarifas propias, que no se reembolsan.",
+    "cashback": "^^ El cashback en compras con Tend, incluyendo categorías, comercios y porcentajes varía. Y debe ser seleccionado en la app. El cashback será aplicado automáticamente después de la fecha de viaje o de la transacción final, la cual puede ser hasta 90 días después de la compra o viaje."
+  }
+}

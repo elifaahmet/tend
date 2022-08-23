@@ -1,0 +1,10 @@
+{
+  "requirePragma": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "semi": true,
+  "bracketSpacing": true,
+  "importOrder": ["^@apollo/(.*)$", "^@tend/(.*)$", "^[./]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}

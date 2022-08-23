@@ -1,0 +1,53 @@
+{
+  "title": "Tend",
+  "description": "Questions & answers",
+  "hero": {
+    "moduleName": "T-1",
+    "eyebrow": "Support",
+    "headline": "Questions\n& Answers",
+    "sub-copy": "Issues with the app? Questions about the product? You’ll find answers to our most commonly asked questions right here."
+  },
+  "search": {
+    "headline": "We’ve got answers to all of your Tend questions."
+  },
+  "questions": {
+    "headline": "Most Commonly Asked",
+    "questions": [
+      {
+        "name": "Why is there a subscription fee?",
+        "topic": "Some Topic",
+        "answer": "The other guys will nickel and dime you with hidden charges and fees, or hound you to upgrade. At Tend, we’re transparent. The monthly fee gets you access to all of the essential banking services you need, as well as awesome reward programs that just aren’t available elsewhere. By spending a little to join, you can earn and save a lot in return. Not too bad for about the same cost as a medium pizza each month."
+      },
+      {
+        "name": "How do I deposit money to my Tend account?",
+        "topic": "Some Topic",
+        "answer": "Funds can be deposited into your account through direct deposit, by external account transfer, and (Coming soon) - by mobile check deposit just by taking a picture."
+      },
+      {
+        "name": "How do I invite my friends to join Tend?",
+        "topic": "Some Topic",
+        "answer": "Invite your friends to join Tend directly from the Tend app by clicking ‘Invite’ from the main menu. Then, your friend can download the Tend app from the Apple App Store or Google Play Store. Remind your friend that when they register on the Tend app, they will need to check that your email is listed as their ‘Inviter’ – that’s how you’ll receive Tend Shares!"
+      },
+      {
+        "name": "How do I earn cashback?",
+        "topic": "Some Topic",
+        "answer": "Cashback is one of the perks of being a Tend member. Earn cashback on everyday purchases just by using your Tend debit card at participating retailers. Whether it's shopping or dining, you'll find opportunities to earn cashback every day.\n\nThere are three ways to earn money through cashback, all by using your Tend debit card:\n<2>· Log in to the Tend app and in the cashback section, click through to your selected online retailer to make a purchase.\n</2><2>· Use your Tend card in-store at participating retailers.\n</2><2>· Opt-in to select in-store offers in the Tend app before visiting your chosen participating retailers to benefit from their deals.\n\n</2>Cashback will then be credited directly to your Tend savings account within 90 days of purchase."
+      },
+      {
+        "name": "How do I send money to another person?",
+        "topic": "Some Topic",
+        "answer": "To instantly transfer money to another Tend member in the US within the Tend app, go to the ‘Move Money’ menu and select ‘Send Money’."
+      },
+      {
+        "name": "How do I earn money with Tend Shares?",
+        "topic": "Some Topic",
+        "answer": "It's simple. As soon as someone opens a Tend account at your invitation (which we call a “Share”), you are eligible to receive Tend Shares payments each month, as long as their account remains active. The more “Shares” you have, the bigger your portion of Tend Shares each month. Tend Shares payments are made automatically. Additionally, after their membership has been active for 3 months, every one of your invitees who joins Tend earns you a free month along with a credit towards an additional bonus. Ka-ching.\n\nOnce you’ve reached 12 bonus credits, we’ll also put $50 (500 pesos) into your Savings. Make it 24, and we’ll make it another $100 (1000 pesos)! 36 gets you $150 (1500 pesos), and so on."
+      },
+      {
+        "name": "What is Tend’s Travel Program?",
+        "topic": "Some Topic",
+        "answer": "Through <1>Travel</1>, Tend members can book travel, hotels, rental cars etc. at low rates AND earn cashback on these purchases."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Tend",
+  "description": "Full-service banking at your fingertips",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/mobile-banking/girl-reading-in-bath.jpeg",
+    "headline": "ALL THINGS MONEY, ALL IN ONE PLACE.",
+    "sub-copy": "With Tend mobile banking, it’s easy to handle your money anytime, anyplace – from the bar, at the beach or while reading a book in a tiny bathtub.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "debit-card": {
+    "moduleType": "Two Column Image + Headline Body",
+    "headline": " A DEBIT CARD DESIGNED WITH YOU IN MIND.",
+    "body": "When you join Tend, you’ll get a contactless Visa debit card, so you can access your money anywhere you go.  Manage it all from the Tend app, available on iOS and Android smartphones.",
+    "image": "/images/common/enUS/debit-cards.png"
+  },
+  "value-props": {
+    "moduleType": "Image + Headline Body List",
+    "image": "/photography/enUS/mobile-banking/guy-with-dog.jpeg",
+    "value-props": [
+      {
+        "label": "Easily send and receive money.",
+        "body": "Pay your friends and your bills from your phone."
+      },
+      {
+        "label": "Get paid quickly with direct deposit.",
+        "body": "Get your paycheck faster than with a check, so you can spend on your own schedule. No trips to the bank necessary."
+      },
+      {
+        "label": "Pay your bills automatically.",
+        "body": "You can’t miss a payment you’ve already scheduled. You can start or stop auto payments anytime."
+      },
+      {
+        "label": "Check, save, & charge—all in one place.",
+        "body": "Your Tend account includes checking, savings, and <b>(coming soon)</b> a secured line of credit worth 75% of what you’ve got in savings. So you only need one account to handle all your banking.",
+        "comingSoonInner": true
+      },
+      {
+        "label": "Withdraw cash without fees.",
+        "body": "You’ll have access to 37,000 no-fee ATMs all over the country, so you can still grab cash for emergencies or impulse-buy at the farmers market.*",
+        "disclaimer": "*The Tend debit card can be used for free at over 37,000 ATMs in the MoneyPass Network. Tend does not charge ATM withdrawal fees, but some ATM providers may charge fees of their own, which are not reimbursed."
+      }
+    ]
+  }
+}

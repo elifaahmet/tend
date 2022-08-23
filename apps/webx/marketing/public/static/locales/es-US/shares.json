@@ -1,0 +1,37 @@
+{
+  "title": "Tend",
+  "description": "Aumenta tu cartera con Tend Shares.",
+  "hero": {
+    "moduleName": "T-1 Layered right",
+    "headline": "Aumenta tu cartera con Tend Shares.",
+    "body": "Tend Shares, nuestro programa de ingresos compartidos, añade una nueva línea de ingresos a tus finanzas.",
+    "image": "/photography/enUS/shares/woman-sitting-on-bed-looking-out-window.jpg",
+    "cta": {
+      "label": "Join Us",
+      "url": "/join-us"
+    }
+  },
+  "matches": {
+    "moduleName": "T-7 Layered right",
+    "headline": "Chicharito y Márquez. Café y pan dulce. Tu dinero y Tend.",
+    "body": "Creemos que juntos es más fácil tener fortuna. Todo esto de la banca funciona mejor cuando está enfocada en la comunidad, y liderada por ella. Por eso, compartimos nuestros ingresos con nuestra comunidad a través de Tend Shares.",
+    "image": "/photography/enUS/shares/girls-laughing.jpeg"
+  },
+  "calculator": {
+    "headline": "Descubre cuánto puedes ganar y ahorrar cada mes con Tend Shares.",
+    "body": "¿A cuántas personas invitarás a Tend al año?"
+  },
+  "monthly-payouts": {
+    "moduleName": "Two Column - Image + Headline Body",
+    "headline": "Gana pagos mensuales para toda la vida.",
+    "body": "Mensualmente, cobrarás según el número de Tend Shares que poseas—por el tiempo que las poseas. Ganas una Tend Share por cada usuario activo que recomiendas, y por dar de alta tu depósito directo. Cuantas más acciones tengas, más fácil seguir acumulando. Después de todo, al dinero le gusta la compañía.",
+    "image": "/illustrations/thegreen.png"
+  },
+  "more-is-more": {
+    "moduleName": "T-4 Stacked",
+    "headline": "A veces, más es realmente más",
+    "body": "Dicen que se necesita dinero para hacer dinero, pero con Tend, solo hacen falta amigos. Te regalaremos un mes gratis de Tend cada vez que se una un amigo al que invites. Y además, recibirás $50 por cada 12 amigos que recomiendes y otros $100 cuando llegues a 24.",
+    "disclaimer": "*Aplican términos y condiciones",
+    "image": "/photography/enUS/shares/pizza-close-up.jpeg"
+  }
+}

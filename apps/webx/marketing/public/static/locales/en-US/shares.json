@@ -1,0 +1,37 @@
+{
+  "title": "Tend",
+  "description": "Grow your wealth with Tend Shares",
+  "hero": {
+    "moduleName": "T-1 Layered right",
+    "headline": "GET YOUR SHARES AND GET YOUR SHARE.",
+    "body": "When we say ‘collective,’ we mean it. Tend Shares entitle members to a portion of our perpetual revenue just for being members. When we do well, you do well.",
+    "image": "/photography/enUS/shares/woman-sitting-on-bed-looking-out-window.jpg",
+    "cta": {
+      "label": "Join Us",
+      "url": "/join-us"
+    }
+  },
+  "matches": {
+    "moduleName": "T-7 Layered right",
+    "headline": "O.J. AND CHAMPAGNE. BRUNCH AND MIMOSAS. YOUR MONEY AND TEND.",
+    "body": "Some things are just better together. And this whole banking thing works best when it’s community-focused, and community-led. That’s why we share our revenue with our community through Tend Shares.",
+    "image": "/photography/enUS/shares/girls-laughing.jpeg"
+  },
+  "calculator": {
+    "headline": "See how much you can earn and save each year with Tend Shares",
+    "body": "How many people a year would you refer that would become members?"
+  },
+  "monthly-payouts": {
+    "moduleName": "Two Column - Image + Headline Body",
+    "headline": "GET YOUR PIECE OF THE PIE.",
+    "body": "Every month, you’ll earn a cash payout based on the number of Tend Shares you own – for as long as you and your referrals are members. Get more Tend Shares by simply turning on direct deposit or referring friends and family. The more shares you have, the more money you earn.  Money loves company, after all.",
+    "image": "/illustrations/thegreen.png"
+  },
+  "more-is-more": {
+    "moduleName": "T-4 Stacked",
+    "headline": "Sometimes, more really is more.",
+    "body": "They say it takes money to make money, but with Tend, all it takes is friends. We’ll give you a free month of Tend every time one of your referrals join Tend in addition to your monthly Tend Shares payout. On top of that, you can earn a $50 bonus when you’ve referred 12 friends who become members, and $100 when 24 of your friends become members*.",
+    "disclaimer": "*terms and conditions apply",
+    "image": "/photography/enUS/shares/pizza-close-up.jpeg"
+  }
+}

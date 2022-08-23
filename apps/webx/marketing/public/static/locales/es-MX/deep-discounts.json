@@ -1,0 +1,20 @@
+{
+  "title": "Tend",
+  "description": "We’ll help you find deep discounts all over the internet so you can stretch your budget a little further.",
+  "hero": {
+    "moduleType": "T-2 Layered",
+    "image": "/photography/enUS/deep-discounts/guy-in-park.jpg",
+    "headline": "Haz que tu abuelita esté orgullosa",
+    "subCopy": "Te ayudaremos a encontrar descuentos en lo más profundo del internet, para que puedas estirar tu presupuesto un poco más allá.",
+    "cta": {
+      "label": "ÚNETE YA",
+      "urt": "https://tend.money"
+    }
+  },
+  "moduleTwo": {
+    "moduleType": "TStem Two Column",
+    "image": "/illustrations/borrow.png",
+    "headline": "Márcate un 50%, 60%, y 70% de descuento",
+    "body": "Encuentra las mejores ofertas en más de 200,000 productos, seleccionados diariamente por tiendas top, como Macy’s, Walgreens, y Best Buy. Todas las ventajas de encontrar gangas, sin gastar tiempo escribiendo a extraños en el internet."
+  }
+}

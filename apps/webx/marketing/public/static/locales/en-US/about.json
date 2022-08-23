@@ -1,0 +1,76 @@
+{
+  "title": "Tend - About Us",
+  "description": "A new kind of digital personal finance platform with modern money tools designed for modern money moves, and a community that helps you step up your money game.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "img": "/photography/enUS/about/green-people.png",
+    "headline": "HI, WE’RE TEND",
+    "sub-copy": "A new kind of digital personal finance platform with modern money tools designed for modern money moves, and a community that helps you step up your money game."
+  },
+  "ourPurpose": {
+    "moduleType": "two rows",
+    "headline": "Our Purpose:",
+    "body": "We exist to create financial wellbeing together."
+  },
+  "ourStory": {
+    "moduleType": "few rows",
+    "headline": "Our Story:",
+    "body": [
+      "Once upon a time, the great Biggie Smalls said, “Mo Money, Mo Problems.”",
+      "But when we look around and see people earning and saving less than their parents, plus an ever-increasing number of unexpected bank fees…and unequal access to credit…and a lack of financial education in schools…it’s clear that not having money comes with its fair share of problems too.",
+      "We all work hard for our money. Nobody should worry about getting their money to work hard for them.",
+      "That’s why we started Tend - to empower everyone to create happier, financially healthy lives.",
+      "Because it doesn’t matter if you’re hustling to find your financial footing, or just looking for a personal finance experience designed for real people – we believe you deserve a money partner who you can trust and grow with.",
+      "And that when more people can tend to their money, things tend to get better for more people."
+    ],
+    "image": "/photography/enUS/about/girls-looking-at-phone.jpeg",
+    "ourValues": {
+      "headline": "Our Values:",
+      "list": [
+        {
+          "headline": "Champion Collaboration",
+          "body": "Partnerships sit at the heart of our business. We find collaborators in our teams, customers, and across local and global communities. We empower every individual to create alongside one another, because we believe a better financial future is built together."
+        },
+        {
+          "headline": "Always Tell the Truth",
+          "body": "Money can be complicated. More than making it easy, we believe it should be clear, understandable, and predictable. Being transparent and upfront not only helps us make more informed decisions but also reinforces our collective confidence in all matters related to money."
+        },
+        {
+          "headline": "Be an Optimist",
+          "body": "As an organization, as partners, as a community, we uplift each other and point to the potential for improving our finances. Every setback, every challenge inspires us to create better banking tools for our members."
+        }
+      ]
+    }
+  },
+  "who-we-are": {
+    "moduleType": "Slider with multiple rows",
+    "headline": "Our Team:",
+    "people": [
+      {
+        "image": "/photography/enUS/about/james-dunavant.jpg",
+        "name": "James Dunavant",
+        "role": "CEO"
+      },
+      {
+        "image": "/photography/enUS/about/nathan-biles.jpeg",
+        "name": "Nathan Biles",
+        "role": "CTO"
+      },
+      {
+        "image": "/photography/enUS/about/loren-tama.jpg",
+        "name": "Loren Tama",
+        "role": "CFO"
+      },
+      {
+        "image": "/photography/enUS/about/sofia-ramirez.jpeg",
+        "name": "Sofia Ramirez",
+        "role": "Brand Advisor"
+      },
+      {
+        "image": "/photography/enUS/about/steve-landry.jpg",
+        "name": "Steve Landry",
+        "role": "COO"
+      }
+    ]
+  }
+}

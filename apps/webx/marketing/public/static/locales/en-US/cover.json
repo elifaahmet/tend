@@ -1,0 +1,20 @@
+{
+  "title": "Tend",
+  "description": "Make money till the day you die. And that day after.",
+  "hero": {
+    "moduleName": "T-2 Expanded",
+    "headline": "MAKE MONEY TILL THE DAY YOU DIE. AND THEN SOME.",
+    "sub-copy": "Yep, your Tend membership comes with accidental death insurance, too.",
+    "image": "/photography/enUS/cover/guy-skate-ollie.jpeg",
+    "cta": {
+      "label": "Join us",
+      "url": "/join-us"
+    }
+  },
+  "be-prepared": {
+    "moduleName": "T-7 Image + Headline Body",
+    "headline": "Who says you can’t be prepared for the worst?",
+    "body": "Every Tend member is automatically enrolled in a $10,000 accidental death and dismemberment insurance coverage policy. It won’t cost you a penny extra or even a doctor’s appointment. Consider it a little extra peace of mind for you and your loved ones.",
+    "image": "/illustrations/cover.png"
+  }
+}

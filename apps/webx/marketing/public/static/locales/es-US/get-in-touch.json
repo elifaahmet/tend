@@ -1,0 +1,20 @@
+{
+  "title": "Tend",
+  "description": "Real humans, standing by",
+  "hero": {
+    "headline": "Estamos aquí para ayudar.",
+    "sub-copy": "Si tienes problemas con tu cuenta o aplicación móvil, por favor, avísanos y haremos todo lo posible por ayudar. Llama al siguiente número o mándanos un mensaje y estaremos contigo en breve.",
+    "cta": {
+      "label": "Search our help center",
+      "url": "/faq"
+    }
+  },
+  "contact-form": {
+    "headline": "Mándanos un mensaje"
+  },
+  "phone": {
+    "headline": "Llámanos 24/7/365",
+    "body": "1-833-TEND-HEY",
+    "info-text": " "
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Tend",
+  "description": "Gestionar tu dinero no debería venir con cargos inesperados, un servicio pésimo, o dolores de cabeza. Aplica feng shui a tu experiencia bancaria—por $99 pesos al mes.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/line-of-credit/girl-with-balloons.jpeg",
+    "headline": "¡Date el crédito que mereces!",
+    "sub-copy": "Si tienes dinero en tu cuenta de ahorros, dispondrás de una línea de crédito asegurada y los beneficios que eso te da.",
+    "cta": {
+      "label": "ÚNETE YA",
+      "url": "https://tend.money"
+    }
+  },
+  "dog-just-ate": {
+    "moduleType": "T-7 List + Image",
+    "image": "/photography/enUS/line-of-credit/pug-in-a-blanket.jpeg",
+    "layered-image": "/images/common/esUS/balance.png",
+    "headline": "PLAN PARA SITUACIONES INESPERADAS.",
+    "body": "Tu tarjeta de débito Tend viene con una línea de crédito asegurada por un valor del 75% de tus ahorros. No importa cuál sea tu presupuesto, algunas veces necesitas un poco más de efectivo—y no deberías romper la alcancía para conseguirlo.",
+    "cta": {
+      "label": "Echa un vistazo",
+      "url": "/"
+    }
+  },
+  "build-credit": {
+    "moduleType": "Bold Message",
+    "headline": "VELO COMO EL EMPUJONCITO HACIA TUS SUEÑOS.",
+    "body": "Comienza a construir tu historial financiero, así tendrás más puntos a favor cuando pidas una hipoteca, un préstamo para el coche o para al fin darle vida a tu increíble emprendimiento.",
+    "cta": {
+      "label": "ÚNETE YA",
+      "url": "/"
+    }
+  },
+  "track-credit-score": {
+    "moduleType": "List + Image",
+    "headline": "DALE SEGUIMIENTO A TU CALIFICACIÓN.",
+    "body": "Sigue el progreso de tu crédito en la app de Tend—sin spam en tu mail.",
+    "image": "/images/common/esUS/credit-score.png"
+  }
+}

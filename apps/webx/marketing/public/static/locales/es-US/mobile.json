@@ -1,0 +1,48 @@
+{
+  "title": "Tend",
+  "description": "La sucursal al alcance de tus pulgares.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "image": "/photography/enUS/mobile-banking/girl-reading-in-bath.jpeg",
+    "headline": "La sucursal al alcance de tus pulgares.",
+    "sub-copy": "Con la banca móvil de Tend es fácil manejar tu experiencia bancaria en cualquier momento y lugar—desde el bar, la playa o en ropa interior.",
+    "cta": {
+      "label": "Join now",
+      "url": "https://tend.money"
+    }
+  },
+  "debit-card": {
+    "moduleType": "Two Column Image + Headline Body",
+    "headline": " Una tarjeta de débito diseñada para el siglo 21.",
+    "body": "Cuando te unes a Tend, recibes una tarjeta de débito Visa para que dispongas de tu dinero allá donde vayas. Gestiónalo todo desde la app Tend, disponible en celulares iOS y Android.",
+    "image": "/images/common/enUS/debit-cards.png"
+  },
+  "value-props": {
+    "moduleType": "Image + Headline Body List",
+    "image": "photography/esUS/mobile-banking/men-on-beach-with-surfboards.jpeg",
+    "value-props": [
+      {
+        "label": "Manda y recibe dinero fácilmente.",
+        "body": "Envía dinero a tus amigos y paga tus facturas, todo desde tu teléfono."
+      },
+      {
+        "label": "Cobra rápidamente con el depósito directo.",
+        "body": "Recibe tu sueldo antes que con un cheque para que puedas gastar a tu ritmo. Sin necesidad de ir al banco."
+      },
+      {
+        "label": "Paga tus facturas automáticamente.",
+        "body": "Asegurate de no perder un pago ya programado. Puedes iniciar o detener los pagos automáticos en cualquier momento."
+      },
+      {
+        "label": "Ingresa, ahorra, y cobra—todo en un lugar.",
+        "body": "Tu cuenta Tend incluye cuenta corriente, ahorros y <b>(pronto)</b> una línea de crédito asegurada por el 75% de tu cuenta de ahorros. Así solo necesitas una cuenta para manejarlo todo.",
+        "comingSoonInner": true
+      },
+      {
+        "label": "Retira dinero sin comisiones.",
+        "body": "Tendrás acceso a 37,000 cajeros automáticos sin comisión en todo el país, así podrás retirar efectivo para emergencias o para alguna compra impulsiva en el camino.",
+        "disclaimer": "*La tarjeta de débito Tend puede usarse gratis en más de 37,000 cajeros automáticos de MoneyPass Network. Tend no cobra comisión por retiro en cajeros, pero algunos proveedores podrían cobrar comisiones por su cuenta, las cuales no son reeembolsadas."
+      }
+    ]
+  }
+}

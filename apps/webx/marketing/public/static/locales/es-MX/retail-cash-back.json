@@ -1,0 +1,55 @@
+{
+  "title": "Tend",
+  "description": "",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "headline": "QUE TODOS LOS DÍAS SEAN DÍAS DE PAGO.",
+    "sub-copy": "Gana hasta un 15% de cashback en cientos de comercios, como Home Depot, Starbucks y otros.",
+    "image": "photography/esMX/cash-back/man-doing-handstand.jpg",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "cash-back-irl": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Hasta 5% de cash back y 100% de libertad.",
+    "body": "No te encasillamos a una única forma de pago. Obtendrás cashback cuando compres en línea o en persona. Es tu dinero, así que gástalo como quieras.",
+    "image": "/photography/enUS/cash-back/busy-coffee-shop.jpeg"
+  },
+  "shop-local": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Aún más razones para comprar local.",
+    "body": "Con la tarjeta de Tend recibes cashback en montones de pequeños comercios—algunos ofrecen incluso más del 5%. Apoyar a tu comunidad se siente mejor cuando te premian por ello.",
+    "image": "/illustrations/earn.png"
+  },
+  "perks-carousel": {
+    "moduleType": "Perks Carousel",
+    "perks": [
+      {
+        "image": "/illustrations/bank.png",
+        "step": "Paso 1",
+        "headline": "Encuentra una oferta.",
+        "body": "Puedes ver las ofertas disponibles cerca de ti en la app de Tend siempre."
+      },
+      {
+        "image": "/illustrations/grow.png",
+        "step": "Paso 2",
+        "headline": "Activa tu oferta.",
+        "body": "Avísanos cuando estés interesado en una oferta y nos aseguraremos que la consigas."
+      },
+      {
+        "image": "/illustrations/borrow.png",
+        "step": "Paso 3",
+        "headline": "GASTA LO QUE QUIERAS.",
+        "body": "Usa tu tarjeta Tend para realizar tu compra y te aplicaremos la oferta automáticamente."
+      },
+      {
+        "image": "/illustrations/cover.png",
+        "step": "Paso 4",
+        "headline": "RECIBE DINERO.",
+        "body": "Depositaremos el efectivo a tu cuenta en 30-90 días."
+      }
+    ]
+  }
+}

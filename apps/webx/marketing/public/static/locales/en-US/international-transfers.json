@@ -1,0 +1,35 @@
+{
+  "title": "Tend",
+  "description": "Transfer money safely and securely when it matters most.",
+  "hero": {
+    "moduleType": "T-2 Expanded",
+    "headline": "Spend less to send more. Instantly.",
+    "sub-copy": "The wait is over. $0 cross-border transfer fee from one Tend account to another - so more of your money goes instantly where it belongs - to your loved ones in Mexico.",
+    "image": "/photography/enUS/international-transfers/man-with-dog.jpg",
+    "cta": {
+      "label": "Join now",
+      "url": "/"
+    }
+  },
+  "send-money-abroad": {
+    "moduleType": "Bold Message - Headline + Body",
+    "headline": "Send dollars. Reciben pesos. ",
+    "body": "Everyone should have access to a better money experience. Tha's why Tend, an easier way to save, spend, send and grow your green is now also a faster, safer and cheaper way to send money to Mexico."
+  },
+  "mexico-transfers": {
+    "moduleType": "T-7 Split - Image + Headline Body",
+    "headline": "Easy (cross-border) moves..",
+    "body": "1.  Download the Tend App and apply in minutes from your phone.<br/>2.  Add funds to your account.<br/>3.  Tap on Invite in the app to send an invitation to your money recipient in Mexico.<br/>4.  Once your recipient has the app and is approved, tap on Move$ in your app to make an instant transfer.<br/>&emsp;&emsp;Tap through Send Money> Choose a User> Enter the Amount> Insert the Verification Code> Accept.<br/><br/>Poof! The money will appear in their account like magic.",
+    "right-list": {
+      "list": [
+        "Download the Tend App and apply in minutes from your phone.",
+        "Add funds to your account.",
+        "Tap on Invite in the app to send an invitation to your money recipient in Mexico.",
+        "Once your recipient has the app and is approved, tap on Move$ in your app to make an instant transfer.",
+        "Tap through Send Money> Choose a User> Enter the Amount> Insert the Verification Code> Accept."
+      ],
+      "end-line": "Poof! The money will appear in their account like magic."
+  },
+    "image": "/photography/enUS/international-transfers/send-money-frame.png"
+  }
+}

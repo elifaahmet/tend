@@ -1,0 +1,200 @@
+{
+  "join-now-cta": {
+    "label": "Join Now",
+    "href": "/#"
+  },
+  "cta": {
+    "about": "Learn More",
+    "join-now": "Join Now",
+    "join-us": "Join Us",
+    "get-started": "Get started",
+    "take-a-look": "Take a look",
+    "try-it-free": "Try it free",
+    "learn-more": "Learn more",
+    "refer-a-friend": "Refer a friend",
+    "get-in-touch": "Get in touch",
+    "submit": "Submit",
+    "visit-the-green": "Visit The Green",
+    "search-our-help": "Search our help center",
+    "send-email": "Send Message"
+  },
+  "form": {
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "name-short": "Name",
+    "company": "Company",
+    "phone-number": "Phone Number",
+    "email": "Email Address",
+    "message": "Message",
+    "success": "Thank you for reaching out, someone will be in touch soon.",
+    "error": {
+      "generic": "Something went wrong, please try again later",
+      "field": "Please enter a valid {{field}}"
+    },
+    "placeholder": "Email",
+    "buttonText": "JOIN THE WAITLIST",
+    "reset": "ADD ANOTHER EMAIL",
+    "success-subscribe": "Thanks for subscribing!",
+    "loading": "PLEASE WAIT..."
+  },
+  "images": {
+    "tend-app": "/images/common/enUS/tend_app_iphone12.png",
+    "tend-debit-card": "/images/common/enUS/tend_debit_card_visa.png",
+    "google-play": "/images/common/enUS/english-google.png",
+    "app-store": "/images/common/enUS/english-apple.png"
+  },
+  "other": "Other",
+  "disclaimer": "Tend is a financial technology company, not a bank. Banking services provided by nbkc bank, Member FDIC. International transfer banking services are provided by CFSB, Member FDIC.",
+  "contact": {
+    "title": "Contact",
+    "email": "hey@tend.money",
+    "tel": "1-833-TEND-HEY",
+    "weekdays": "Monday–Friday: 7am–10pm EST",
+    "weekend": "Saturday–Sunday: 7am–3pm EST",
+    "working-hours": "Available 24/7/365"
+  },
+  "privacy": {
+    "title": "Privacy",
+    "url": "/privacy"
+  },
+  "terms": {
+    "title": "Terms",
+    "url": "/terms"
+  },
+  "accessibility": {
+    "title": "Accessibility",
+    "url": "/accessibility"
+  },
+  "app-urls": {
+    "google-play": "https://play.google.com/store/apps/details?id=money.tend.app",
+    "app-store": "https://apps.apple.com/us/app/tend-money/id1554963043"
+  },
+  "title": "Tend - Coming Soon!",
+  "hero": {
+    "title": "Join the waitlist. Win a tub of money.",
+    "body": "We believe that everyday banking, finding great deals, and maximizing your money doesn’t have to be so complicated. And that everyone deserves a fair shot at striking it rich. We’ll send you an invitation to join Tend when we launch, and we’ll enter you for a chance to win a bathtub full of money. For swimming, saving, or spending—your money, your call.",
+    "img": "/landing/tend_app_en-US.png"
+  },
+  "countdown": {
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds"
+  },
+  "sweepstakesRules": "Sweepstakes Rules",
+  "error": {
+    "label": "error",
+    "unspecific": "Something went wrong, please try again later."
+  },
+  "navigation": [
+    {
+      "title": "Bank",
+      "slug": "bank",
+      "meta": {
+        "background": "#FFC73D",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Mobile Banking",
+          "slug": "mobile"
+        },
+        {
+          "title": "Get Paid Sooner",
+          "slug": "get-paid-sooner"
+        },
+        {
+          "title": "Line of Credit",
+          "slug": "line-of-credit"
+        },
+        {
+          "title": "Mobile Payments",
+          "slug": "mobile-payments"
+        },
+        {
+          "title": "Debit Card",
+          "slug": "debit-card"
+        },
+        {
+          "title": "International Transfers",
+          "slug": "international-transfers"
+        }
+      ]
+    },
+    {
+      "title": "Earn",
+      "slug": "earn",
+      "meta": {
+        "background": "#F79234",
+        "color": "#000000"
+      },
+      "children": [
+        {
+          "title": "Tend Shares",
+          "slug": "shares"
+        },
+        {
+          "title": "Travel",
+          "slug": "travel"
+        },
+        {
+          "title": "Shopping Cashback",
+          "slug": "shopping-cashback"
+        },
+        {
+          "title": "Deep Discounts",
+          "slug": "deep-discounts"
+        }
+      ]
+    },
+    {
+      "title": "Cover",
+      "slug": "cover"
+    },
+    {
+      "title": "Tend at Work",
+      "slug": "tend-at-work"
+    },
+    {
+      "title": "The Green",
+      "slug": "the-green"
+    },
+    {
+      "title": "About",
+      "slug": "about"
+    },
+    {
+      "title": "Support",
+      "slug": "support",
+      "meta": {
+        "background": "#173D38",
+        "color": "#ffffff"
+      },
+      "children": [
+        {
+          "title": "Get in Touch",
+          "slug": "get-in-touch"
+        },
+        {
+          "title": "Questions & Answers",
+          "slug": "faq"
+        }
+      ]
+    }
+  ],
+  "ready_to_join": {
+    "headline": "Ready to join?",
+    "body": "Managing your money shouldn’t come with hidden fees, lousy service or stress headaches. Let’s feng shui your banking experience—for $9.95/month.",
+    "cta": {
+      "label": "Join us",
+      "url": "/"
+    }
+  },
+  "sticky_footer": {
+    "disclaimer": "Tend is a financial technology company, not a bank. Banking services provided by nbkc bank, Member FDIC. International transfer banking services are provided by CFSB, Member FDIC."
+  },
+  "disclosures": {
+    "dive_bar": "^ The Tend debit card can be used for free at over 37,000 ATMs in the MoneyPass Network.  Tend does not charge ATM fees, but some ATM providers may charge fees of their own, which are not reimbursed.",
+    "cashback": "^^ Cashback deals on Tend purchases, including categories, merchants, and percentages, will vary and must be selected in the app. Cashback will be applied automatically after the travel dates or final transaction posts, which may be up to 90 days after the qualifying purchase or travel event."
+  }
+}

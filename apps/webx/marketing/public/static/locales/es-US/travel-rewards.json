@@ -1,0 +1,27 @@
+{
+  "title": "Tend",
+  "description": "Save on travel purchases and earn up to 15% cash back on everything from rental cars to plane tickets.",
+  "hero": {
+    "moduleType": "T-1 Layered",
+    "image": "/photography/enUS/travel-rewards/guy-under-water-with-bottles.jpeg",
+    "headline": "Mímate con más viajes gratificantes.",
+    "sub-copy": "Ahorra en compras de viaje y gana hasta un 15% de cash back en todo—desde hoteles hasta lecciones de surf.^^"
+  },
+  "sweet-travel-deals": {
+    "moduleType": "Bold Message",
+    "headline": "Ve más allá de visitar lo típico",
+    "body": "Todos los miembros de Tend tienen acceso a nuestra plataforma de viajes, donde puedes encontrar los mejores precios y experiencias alrededor del mundo."
+  },
+  "cash-back": {
+    "moduleType": "Two Column - Image + HeadlineBody",
+    "headline": "Gana hasta el 15% de cash back en viajes",
+    "body": "Usa tu tarjeta Tend para reservar un carro, vuelo, hotel, motel, o cualquier plan de vacaciones a través de la plataforma de viajes Tend. Obtendrás hasta un 15% de vuelta.",
+    "image": "/photography/enUS/travel-rewards/woman-with-coffee-taking-photos.jpeg"
+  },
+  "save-equation": {
+    "request-pto": "Pide vacaciones",
+    "book-a-trip": "Reserva tu viaje y paga con tu tarjeta Tend",
+    "see-the-sights": "Disfruta las vistas",
+    "get-paid": "Recibe tu pago en tu cuenta de ahorros entre 30-90 días."
+  }
+}

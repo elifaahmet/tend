@@ -1,0 +1,68 @@
+{
+  "title": "Tend",
+  "description": "Questions & answers",
+  "hero": {
+    "moduleName": "T-1",
+    "eyebrow": "AYUDA",
+    "headline": "Preguntas\ny respuestas",
+    "sub-copy": "¿Problemas con la aplicación? ¿Preguntas sobre nuestros productos? Encuentra respuestas a las dudas más frecuentes abajo."
+  },
+  "search": {
+    "headline": "Tenemos respuestas a todas tus preguntas sobre Tend."
+  },
+  "questions": {
+    "headline": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "name": "¿Cuáles son los canales de pago o los métodos de pago?",
+        "topic": "Some Topic",
+        "answer": "Como somos un banco digital, no hay sucursales de INVEX para visitar. Te invitamos a pagar desde nuestra aplicación de INVEX Control o en nuestra portal en línea en el sitio <3>www.invextardamientos.com.mx</3> o desde la banca en línea de tu banco. Las siguientes sucursales bancarias sin comisiones están disponibles para ti: BBVA Bancomer, HSBC, IXE, Scotiabank, Citibanamex, Banorte, Banca Mifel, Inbursa, MULTIVA, CIBanco. También puedes pagar en Chedraui, Soriana, Grupo Wal-Mart: Bodega Aurrera, Superama, Sam’s Club, con una comisión de $15 pesos + IVA (impuesto al valor agregado) que se cobrará a tu cuenta. Las horas de servicio en Soriana dependen de cada sucursal. El límite de transacciones es $50,000 pesos. En OXXO la comisión es $9.39 pesos incluyendo IVA (impuesto al valor agregado) y la comisión del establecimiento para pagos de hasta $5000 pesos, y en las Farmacias Guadalajara sin comisión para clientes con una tarjeta de crédito Invex Farmacia Guadalajara. Las horas de pago para las tarjetas de crédito son de Lunes a Domingo desde las 8:00 a.m. hasta las 8:00 p.m. La cantidad límite de los pagos de crédito en efectivo a favor de Invex es de hasta $5,000 pesos. También puedes hacer un pago en forma de cheque, es necesario que hagas el cheque a nombre del banco que expidió tu chequera y en el nombre del mismo banco. Por ejemplo: si vas a pagar el total o parte del saldo de tu tarjeta de crédito INVEX con un cheque Santander, tienes que hacer el pago en cualquier sucursal de Santander, y el cheque debe ser expedido a favor del Banco Santander S.A."
+      },
+      {
+        "name": "¿Cuánto tiempo tarda en reflejarse un pago?",
+        "topic": "Some Topic",
+        "answer": "Los pagos serán reflejados en el sistema durante un periodo de 24 a 72 horas hábiles desde que se realice el pago."
+      },
+      {
+        "name": "¿Cuál es el número de atención al cliente?",
+        "topic": "Some Topic",
+        "answer": "Para contactarnos por cualquier razón, incluyendo robo o extravío por favor llama a la siguiente línea de atención al cliente de tarjetas INVEX: 55 4000 4000 o a la línea de atención al cliente de Volaris INVEX: 55 4000 6566."
+      },
+      {
+        "name": "¿Cómo puedo cambiar mi contraseña en la aplicación de INVEX Control?",
+        "topic": "Some Topic",
+        "answer": "Para cambiar tu contraseña en la aplicación de INVEX Control, haz clic en el botón que dice: “Olvidé mi contraseña”. Otra opción es visitar nuestro portal de tarjetas INVEX en línea www.invextardamientos.com y asegúrate de tener tu número de cuenta o tu correo electrónico presente."
+      },
+      {
+        "name": "¿Cómo puedo descargar y darme de alta en la aplicación de Tend?",
+        "topic": "Some Topic",
+        "answer": "Para descargar la aplicación de Tend, visita la tienda App Store o Google Play en tu dispositivo móvil. Después descarga la aplicación de INVEX Control que puedes encontrar aquí: <3>https://bit.ly/APPINVEX</3>. Si ya eres un usuario, puedes iniciar sesión con tu nombre de usuario y tu contraseña.\n\nSi todavía no te has registrado, puedes seleccionar la opción de “regístrate''. Solicitaremos una de las siguientes opciones para completar el registro: tu correo electrónico, tu número de tarjeta o tu fecha de nacimiento."
+      },
+      {
+        "name": "¿Cuál es el proceso para solicitar una aclaración por cargos no reconocidos?",
+        "topic": "Some Topic",
+        "answer": "Para presentar una solicitud de aclaración por cargos no reconocidos, por favor contacta a la siguiente línea de servicio al cliente de tarjetas INVEX: 55 4000 4000 o a la línea de atención al cliente Volaris INVEX: 55 4000 6566 o a nuestro centro de ayuda al cliente especializado: 55 4000 4046. Por favor ten la siguiente información disponible: los últimos 6 dígitos de tu tarjeta, tu nombre completo, correo electrónico y tu fecha de nacimiento.\n\nUn agente recopilará los datos de tu solicitud, te dará una página de referencia con el recibo de tu solicitud, la fecha y hora de cuando fue recibido y el tiempo estimado para recibir la resolución.\n\nDespués recibirás un correo electrónico de confirmación de tu registro de la siguiente dirección de correo electrónico: <4>boletin@invextardamientos.com</4>.\n\nTienes un tiempo máximo de 90 días para presentar una solicitud de aclaración por cargos no reconocidos. Adicionalmente, no va a ser requerido que pagues los cargos incluidos en la aclaración porque estos cargos serán retenidos hasta que se solucione el caso."
+      },
+      {
+        "name": "¿Cuándo recibiré mi bono de aniversario o de bienvenida?",
+        "topic": "Some Topic",
+        "answer": "Para consultar el estado de tu bono de aniversario o de bienvenida, visita nuestro sitio <3>www.invextardamientos.com.mx</3>. Después, busca la información de tu tarjeta y selecciona “beneficios” para ver."
+      },
+      {
+        "name": "¿Dónde puedo descargar mi estado de cuenta?",
+        "topic": "Some Topic",
+        "answer": "Para tu conveniencia, tu estado de cuenta puede ser descargado en nuestro portal en línea en el sitio www.invextardamientos.com.mx o directamente en la aplicación de Invex Control que puede ser descargada aquí: https://bit.ly/APPINVEX."
+      },
+      {
+        "name": "¿Cómo puedo activar mi tarjeta y mi número de identificación personal (NIP)?",
+        "topic": "Some Topic",
+        "answer": "Para tu seguridad y confidencialidad, por favor, llama a nuestra línea de servicio al cliente de tarjetas INVEX: 55 4000 4000 o a la línea de atención al cliente Volaris INVEX: 55 4000 6566 que te permitirá activar tu nueva tarjeta y a cambiar tu número de identificación personal (PIN). Otra opción es activar tu tarjeta a través de la aplicación de INVEX Control."
+      },
+      {
+        "name": "¿Cómo puedo verificar mi cuenta principal?",
+        "topic": "Some Topic",
+        "answer": "Para verificar tu cuenta principal, puedes hacerlo en nuestro portal en línea www.invextardemientos.com.mx o directamente en la aplicación de INVEX Control. Para completar esta verificación, por favor ten la siguiente información disponible:"
+      }
+    ]
+  }
+}
